@@ -35,8 +35,6 @@ Site
 Request Forgery (CSRF)
 Site Scripting (XSS)
 Document Object Model (DOM)
-Andreas Nissen
-
 Initial Time To Live (TTL)
 Fragment (DF)
 Port Access Entity (PAE)
