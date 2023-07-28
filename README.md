@@ -40,6 +40,10 @@ cd AcronymHunter
 ```
 
 ## Usage
+### Convert PDF to text 
+Remove pdf password through qpdf: 
+```qpdf --password=enterpasswordhere -decrypt "InputFilename.pdf" "OutputFilename.pdf"```
+Convert new pdf to txt: ```pdftotext unencryptedfile.pdf coursetxt.txt```
 
 1. Place the text file you want to analyze into the repository directory. The script is set to read from a file named `input.txt` by default.
 2. Run the script:
