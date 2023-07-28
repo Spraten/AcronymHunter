@@ -1,0 +1,5408 @@
+Advanced Penetration (GXPN)
+Address Resolution Protocol (ARP)
+Thread Information Block (TIB)
+Process Environment Block (PEB)
+Structured
+Exception Handling (SEH)
+Windows Application Programming
+Interface (API)
+Data Execution
+Prevention (DEP)
+Address Space Layout Randomization (ASLR)
+Programming (ROP)
+Software Development Lifecycle (SDL)
+Applications (VBA)
+Shared (NAT)
+Intrusion Prevention System (IPS)
+Operating System (OS)
+Malware Scanning Interface (AMSI)
+User Account Control (UAC)
+Windows Defender Application Control (WDAC)
+Malware
+Scanning Interface (AMSI)
+User Account Control (UAC)
+Li
+
+Windows Defender Application Control (WDAC)
+Common Language
+Runtime (CLR)
+Malware Scanning Interface (AMSI)
+Applications (VBA)
+Network Admission Control (NAC)
+Network Admission Control (NAC)
+Network Policy Services (NPS)
+Site
+Request Forgery (CSRF)
+Site Scripting (XSS)
+Document Object Model (DOM)
+Andreas Nissen
+
+Initial Time To Live (TTL)
+Fragment (DF)
+Port Access Entity (PAE)
+Value (TLV)
+Dynamic Trunking Protocol
+The Dynamic Trunking Protocol (DTP)
+Spanning Tree
+Protocol (STP)
+Cisco Discovery Protocol (CDP)
+Hot Standby Router Protocol (HSRP)
+Dynamic Host
+Configuration Protocol (DHCP)
+Trunking Protocol (VTP)
+Cisco Discovery Protocol (CDP)
+Middle (MITM)
+Name Service (NBNS)
+Play (UPNP)
+Web Services Discovery (WSD)
+Server Name Identification (SNI)
+The Hot Standby Router Protocol (HSRP)
+Virtual Router Redundancy Protocol (VRRP)
+Open Shortest Path First (OSPF)
+Interior Gateway Protocol (IGP)
+Border
+Gateway Protocol (BGP)
+Name Server
+(NBNS)
+Designated Router (DR)
+Designated Router (DR)
+Backup Designated Router (BDR)
+Public Key Infrastructure (PKI)
+Time To Live (TTL)
+Neighbor Solicitation (NS)
+Optimistic Duplicate Address
+Detection (DAD)
+Router
+Discovery (RD)
+Neighbor Solicitation (NS)
+Duplicate Address Detection (DAD)
+Nmap Scripting Engine (NSE)
+Domain Routing (CIDR)
+Discovery (ND)
+Neighbor Discovery (ND)
+Neighbor Solicitation (NS)
+Neighbor
+Advertisement (NA)
+Router Solicitation (RS)
+Router Solicitation (RS)
+Router Advertisement (RA)
+Duplicate Address Detection (DAD)
+Router Announcement (RA)
+Security (HSTS)
+Advanced Penetration (GXPN)
+Downgraded Legacy Encryption (POODLE)
+Initialization Vector (IV)
+Cipher Block Chaining (CBC)
+Electronic Codebook (ECB)
+Cipher Block Chaining (CBC)
+Counter (CTR)
+Electronic Codebook (ECB)
+Electronic Codebook (ECB)
+Cipher Block Chaining Mode
+
+Cipher Block Chaining (CBC)
+Initialization Vector (IV)
+Downgraded Legacy Encryption (POODLE)
+Downgraded Legacy Encryption (POODLE)
+Downgraded
+Legacy Encryption (POODLE)
+Pairwise Transient Key (PTK)
+Message Integrity Check (MIC)
+Windows Defender Application Control (WDAC)
+Software Restriction Policy (SRP)
+Windows Defender Application Control (WDAC)
+Windows Defender Application Control (WDAC)
+Hive Key Local Machine (HKLM)
+Hive Key Current User
+(HKCU)
+Provisioning Package (PPKG)
+Provisioning Package
+(PPKG)
+Component Object Model (COM)
+Address Space Layout Randomization (ASLR)
+Windows (ETW)
+Windows (ETW)
+Import Address Table (IAT)
+Current Working Directory (CWD)
+Baseline Security Analyzer
+(MBSA)
+Security
+Compliance Toolkit (SCT)
+Security Support Provider (SSP)
+Pivoting
+
+Microsoft Active Directory (AD)
+User Account Control (UAC)
+Malware Scanning Interface (AMSI)
+Antimalware Scan Interface (AMSI)
+Binaries (LOLBINS)
+Windows Management
+Infrastructure (WMI)
+Desired State Configuration (DSC)
+Interactive Scripting Environment (ISE)
+Alternative Data Streams (ADS)
+Windows Management Instrumentation (WMI)
+Common Information Model (CIM)
+Windows Management Instrumentation (WMI)
+Common Information Model (CIM)
+Windows Management Framework
+(WMF)
+Common Object
+Model (COM)
+Applications (VBA)
+Uses Desired State Configuration (DSC)
+Desired State Configuration (DSC)
+Windows Management
+Framework (WMF)
+Active Directory
+
+Active Directory (AD)
+A
+Managed Object Format (MOF)
+Advanced Penetration (GXPN)
+Network Access Control (NAC)
+Intrusion Prevention System
+(IPS)
+Antivirus (AV)
+Address Space Layout Randomization (ASLR)
+Debugger (GDB)
+Berkeley Packet Filter (BPF)
+Router Discovery
+
+The Address Resolution Protocol (ARP)
+Neighbor
+Discovery (ND)
+Neighbor Discovery (ND)
+Internet Engineering Task
+Force (IETF)
+Software Development Life Cycle
+(SDLC)
+Software Development Life Cycle (SDLC)
+Public License (GPL)
+American Fuzzy Lop
+
+American Fuzzy Lop (AFL)
+Debugger (GDB)
+American Fuzzy Lop
+(AFL)
+Advanced Penetration (GXPN)
+Oriented Programming (ROP)
+Linux Address Space Layout Randomization (ASLR)
+Random Access Memory (RAM)
+Random Access Memory (RAM)
+Instruction Pointer (IP)
+Code Segment (CS)
+The Instruction Pointer (IP)
+Jump (JMP)
+Instruction Register
+(IR)
+Data Segment
+(DS)
+Saved Frame Pointer (SFP)
+Extended Base Pointer (EBP)
+Extended Instruction Pointer (EIP)
+Code Segment
+The Code Segment (CS)
+The Stack Segment (SS)
+Data Segment (DS)
+Extra Segment (ES)
+Thread
+Information Block (TIB)
+Thread Local Storage
+(TLS)
+Physical Address Extension (PAE)
+Address Space Layout Randomization (ASLR)
+Process Control Block (PCB)
+Process Control Block (PCB)
+Symbol (BSS)
+Structured Exception Handler
+(SEH)
+Thread Information Block (TIB)
+Process
+Environment Block (PEB)
+Symbol (BSS)
+Program Counter (PC)
+Debugger (GDB)
+Debugger (GDB)
+Debugger (GDB)
+Linking Format (ELF)
+Linking Format (ELF)
+Procedure Linkage Table (PLT)
+Procedure Linkage Table (PLT)
+Global Offset Table (GOT)
+Procedure Linkage Table (PLT)
+The Procedure Linkage Table (PLT)
+Global Offset Table (GOT)
+Global Offset Table (GOT)
+Procedure Linkage Table
+(PLT)
+Global Offset Table (GOT)
+Procedure Linkage Table (PLT)
+Procedure Linkage Table
+(PLT)
+Global Offset Table (GOT)
+Intel
+True
+Process Control Block (PCB)
+The Procedure Linkage Table (PLT)
+Global Offset Table (GOT)
+The Process Control Block (PCB)
+Netwide
+Assembler (NASM)
+The Netwide Assembler (NASM)
+The Netwide Assembler (NASM)
+Netwide
+Assembler (NASM)
+Process Environment Block (PEB)
+Process Environment Block (PEB)
+Structured Exception
+Handling (SEH)
+Export Address
+Table (EAT)
+The Process Environment Block (PEB)
+Relative Virtual Address (RVA)
+Oriented Programming (ROP)
+Data
+Execution Prevention (DEP)
+Python Exploit Development Assistance (PEDA)
+The Python Exploit Development Assistance (PEDA)
+Procedure Linkage Table (PLT)
+Oriented Programming (ROP)
+Oriented
+Programming (ROP)
+Oriented Programming (ROP)
+Jump Oriented Programming (JOP)
+Jump Oriented
+Programming (JOP)
+Jump Oriented Programming (JOP)
+Jump Oriented Programming (JOP)
+Address
+Space Layout Randomization (ASLR)
+Address Space Layout Randomization (ASLR)
+Address Space Layout Randomization (ASLR)
+Return Pointer (RP)
+Saved Frame
+Pointer (SFP)
+Stack Smashing Protector (SSP)
+Stack Smashing Protector (SSP)
+C Compiler (GCC)
+Linux Address Space Layout Randomization (ASLR)
+Linux Address Space Layout Randomization (ASLR)
+Procedure Linkage Table (PLT)
+Procedure Linkage Table (PLT)
+Position Independent
+Executable (PIE)
+Address Space Layout Randomization (ASLR)
+Position Independent Executable (PIE)
+Position Independent Executable (PIE)
+Position Independent Executable (PIE)
+X
+Address Space Layout Randomization (ASLR)
+Stack Smashing Protection (SSP)
+Stack Smashing Protection (SSP)
+Stack Smashing Protection (SSP)
+Advanced Penetration (GXPN)
+Oriented Programming (ROP)
+Control Flow Guard
+(CFG)
+Address Space Layout Randomization (ASLR)
+Process Environment Block (PEB)
+Thread Information Block (TIB)
+Structured
+Exception Handling (SEH)
+Thread Information Block (TIB)
+Process Environment Block (PEB)
+Structured Exception Handling (SEH)
+Thread Information Block (TIB)
+Process Environment Block (PEB)
+Structured Exception Handling (SEH)
+Kernel Mode Code Signing
+(KMCS)
+K
+E
+R
+N
+E
+L
+
+Hardware Abstraction Layer (HAL)
+Hardware Abstraction Layer (HAL)
+Procedure Linkage Table (PLT)
+Global
+Offset Table (GOT)
+Import Address Table (IAT)
+Export Address Table (EAT)
+Windows Application Programming Interface (API)
+Windows Structured Exception Handling (SEH)
+Thread Information Block (TIB)
+Dynamic Link Libraries (DLL)
+Import Address Table (IAT)
+Export Address Table (EAT)
+Import Address Table (IAT)
+Import Address Table (IAT)
+Thread Information Block (TIB)
+Thread Information Block (TIB)
+Environment Block (TEB)
+Thread Information Block (TIB)
+Thread Environment Block (TEB)
+Structured Exception Handling (SEH)
+Process Environment Block (PEB)
+Thread Information Block (TIB)
+Process Environment Block (PEB)
+Process Environment Block
+
+The Process Environment Block (PEB)
+Structured Exception Handling (SEH)
+The Process Environment Block (PEB)
+The Process Environment Block (PEB)
+Thread Information Block (TIB)
+Data Execution Protection (DEP)
+Windows Low Fragmentation Heap (LFH)
+Data Execution Prevention
+(DEP)
+Address Space Layout Randomization
+(ASLR)
+Structured Exception Handling Overwrite Protection (SEHOP)
+Control Flow Guard (CFG)
+No Execute (NX)
+Disable (XD)
+Data Execution Prevention (DEP)
+Execute Disable
+(XD)
+No Execute (NX)
+Data Execution Prevention
+Data Execution Prevention (DEP)
+Execute Disable
+(XD)
+No Execute (NX)
+Windows Structured Exception Handling (SEH)
+Structured Exception Handling
+Overwrite Protection (SEHOP)
+The Structured Exception Handler Overwrite Protection (SEHOP)
+Enhanced Mitigation Experience Toolkit (EMET)
+Structured Exception Handler (SEH)
+Process Environment Block (PEB)
+Low Fragmentation Heap (LFH)
+Low Fragmentation Heap
+
+The Low Fragmentation Heap (LFH)
+Address Space Layout Randomization (ASLR)
+Address Space Layout Randomization (ASLR)
+Address Space Layout Randomization (ASLR)
+Control Flow Guard (CFG)
+Control Flow Guard (CFG)
+Control Flow Guard
+(CFG)
+Control Flow Integrity (CFI)
+Flow Enforcement Technology (CET)
+Control Flow Integrity (CFI)
+Enforcement Technology (CET)
+Control Flow Enforcement (CET)
+Oriented Programming (ROP)
+Oriented Programming (ROP)
+Data Execution Prevention (DEP)
+Data Execution Prevention (DEP)
+Structured Exception Handler (SEH)
+Structured Exception Handler (SEH)
+Oriented Programming (ROP)
+Data Execution Prevention (DEP)
+Address Space Layout Randomization (ASLR)
+Programming (ROP)
+Data Execution Prevention (DEP)
+Data Execution Prevention (DEP)
+Data Execution Prevention (DEP)
+Structured Exception Handling (SEH)
+Oriented Programming (ROP)
+Equal (JE)
+Data Execution Prevention (DEP)
+Data Execution Prevention (DEP)
+Data Execution Prevention (DEP)
+Oriented Programming (ROP)
+Oriented Programming (ROP)
+Free (UAF)
+Import Address Table (IAT)
+Address Space Layout Randomization
+(ASLR)
+Alternative Payloads
+American Fuzzy Lop (AFL)
+Backup Designated Router (BDR)
+Cipher Block Chaining (CBC)
+Cisco Discovery Protocol (CDP)
+Code Segment (CS)
+Control Flow Guard (CFG)
+Control Flow Integrity (CFI)
+Counter (CTR)
+Data Encryption Standard (DES)
+Data Execution Prevention (DEP)
+Data Segment (DS)
+Designated Router (DR)
+Drcov
+Drrun
+Dynamic Host Configuration Protocol
+(DHCP)
+Dynamic Trunking Protocol (DTP)
+Electronic Codebook (ECB)
+Enhanced Mitigation Experience Toolkit
+(EMET)
+Linking Format (ELF)
+Extra Segment (ES)
+Debugger (GDB)
+Heap Cookies
+Hot Standby Router Protocol (HSRP)
+Strict Transport Security (HSTS)
+Initialization Value (IV)
+Loki
+Low Fragmentation Heap (LFH)
+Message Integrity Check (MIC)
+Netwide Assembler (NASM)
+Network Access Control (NAC)
+Path First (OSPF)
+Padding Oracle
+Padding Oracle On Downgraded Legacy
+Encryption (POODLE)
+Procedure Epilogue
+Procedure Linkage Table (PLT)
+Procedure Prologue
+Process Environment Block (PEB)
+Request For Comment (RFC)
+Return Oriented Programming (ROP)
+Simple Network Management Protocol
+(SNMP)
+Software Restriction Policy (SRP)
+Spanning Tree (STP)
+Structured Exception Handling (SEH)
+Thread Environment Block (TEB)
+Thread Information Block (TIB)
+User Account Control (UAC)
+Virtual Router Redundancy Protocol
+(VRRP)
+Advanced Penetration (GXPN)
+Network Access Control (NAC)
+Core(TM)
+Core(TM)
+The Group Policy Preferences (GPP)
+American Fuzzy Lop (AFL)
+Stack Pointer (ESP)
+Chances
+
+Li
+
+No Operation (NOP)
+Global Offset Table (GOT)
+Position Independent Executable (PIE)
+Oriented Programming (ROP)
+Enforcement Technology (CET)
+Andreas Nissen
+
+Handler (SEH)
+Enforcement Technology (CET)
+Structured Exception Handler (SEH)
+Structured Exception Handler (SEH)
+Enforcement Technology (CET)
+Enforcement Technology (CET)
+
+
+ Event ID: 4624 Successful Logon"
+ cross-site request forgery (CSRF)
+"Data Execution
+"Logon Type Codes
+#
+$ files
+$ATTRDEF
+$ATTRIBUTE_LIST
+$BADCLUS
+$BITMAP
+$BOOT
+$DATA
+$EA
+$EA_INFORMATION
+$EXTEND
+$ExecutionContext.SessionState.LanguageMode
+$FILE_NAME
+$I30
+$INDEX_ALLOCATION
+$INDEX_ROOT
+$J
+$LOGFILE
+$LOGGED_UTILITY_STREAM
+$LogFile
+$LogFile operation codes
+$MFT
+$MFTMIRR
+$Max
+$OBJECT_ID
+$ObjId
+$Quota
+$REPARSE_POINT
+$Reparse
+$SECURE
+$SECURITY_DESCRIPTOR
+$STANDARD_INFORMATION
+$Standard_Information
+$UPCASE
+$UsnJrnl
+$UsnJrnl reason codes
+$VOLUME
+$VOLUME_INFORMATION
+$VOLUME_NAME
+$entrypointOpcode
+%COMPSEC%
+%WINDIR%/Fonts,
+(Not)Petya
+(WDAC) Windows Defender Application Control
+.cab
+.cab files
+.dat
+.manifest
+.msu
+.msu patch expansion
+.vbe
+/etc directory
+/restrictedAdmin
+1 Event log chart
+1-day exploit 
+1xx
+2FA
+2FA - Two Factor Authentication
+2xx
+3 Keys to rule them all
+3xx
+401
+403
+404
+404 Not Found Web Shell
+405
+4xx
+501
+5xx
+802.1AE-2006
+802.1X
+802.1X-2010
+A09:2021-Security Logging and Monitoring Failures
+AAD-Internals
+AAD-Internals external recon
+AADIntPTASpy
+ACE - Automation Coverage Effectiveness
+ACG: Arbitrary Code Guard
+ACSC (Australian Cyber Security Center)
+AD Auth How it works
+AD Auth Methods 
+AD Authentication protocols
+AD DC password storage location
+AD Explorer
+AD Overview
+AD Persistence
+AD Privilege Escalation
+AD Querying
+AD Querying 
+AD Security Features 
+AD admin acct crate
+AD authentication
+AD credential storage
+AD groups
+AD security services
+AD trust
+AD users and groups 
+ADFS Federation
+ADFS: Federation Integration
+ADHD: Active Defense Harbinger Distribution
+ADHD—Active Defense Harbinger Distribution
+ADS
+AES - Advanced Encryption Standard
+AFL - American Fuzzy Loop
+AGPMServer Microsoft Advanced Group Policy Management 
+AIL (Analysis for Information Leaks)
+AJAX
+AJAX Async
+AJAX Proxy
+AJAX Spidering
+AJAX pen testing
+AJAX proxy
+AJAX spidering
+ALockout.dll
+AMSI - Anti Malware Scan Interface
+AMSI - AntiMalware Scan Interface
+AMSI Bypass string modification
+AMSI architecture
+AMSI bypass
+AMSI downgrade bypass
+AMSI in action
+AMSI init bypass
+AMSI.Fail
+AMSI.fail
+API Invocation validation
+APT InkySquid 
+APT Simulator 
+APT attribution
+APT groups and operations
+APT simulator
+AS-REP
+AS-REP Roasting
+AS-REQ
+AS-REQ (with Pre-Authentication
+ASCII
+ASCII 
+ASD Controls
+ASEP
+ASEP: AutoStart Extension Point
+ASLR - Address Space Layout Randomization
+ASR - Attack Surface Reduction
+ATA - Azure Advanced Threat Protection
+ATP Safe Attachments
+ATP safe attachments
+ATT&CK
+ATT&CK Framework
+ATT&CK Navigator
+ATT&CK for Adversary Emulation
+ATT&CK for Defense Prioritization
+ATT&CK for Detection Capability
+ATT&CK for Threat Intelligence
+AV/EDR evasion approach
+AV/EDR evasion automation
+AV/EDR evasion tactics
+AV/EDR hooks
+AV/EDR hooks bypass
+Aa
+Access Token
+Access Token Impersomation
+Access Tokens
+Access token theft
+Access-Control-Allow-Credentials
+Access-Control-Allow-Origin
+Account Creation
+Account Logon
+Account Logon Events
+Account Management
+Account Usage
+Account lockout
+Account lockout - Windows
+Account logon with superuser rights (Administrator)
+Account was created / deleted
+Acquiring Memory
+Acquiring Processes
+Actions on Objective
+Active Directory 
+Active Directory (AD)
+Active Directory relationship graphing tool
+Active Diretory (AD)
+ActiveX Object
+ActiveX dll
+ActiveX objects 
+Acunetix vulnerability scanner
+Additional Time Rule Exceptions
+Address Space Laylout Randomization (ASLR) 
+Address Space Layout Randomization (ASLR)
+AddressOfFunctions
+Admin Approval Mode (AAM)
+Admin Shares
+Admin$
+Administrative access principals
+Advanced Evidence Recovery
+Advanced Evidence of Exe
+Advanced NTFS FileSys Tactics
+Advanced Persistent Threat
+Advanced Persistent Threat (APT) Simulator
+Advanced Threat Protection (ATP) Safe Attachements
+Adversary emulation
+Adversary emulation tools
+Agent based logs
+Agent based vulnerability scan
+Agent-based - logs based off hosts
+Agent.BTZ
+Agile & SDL
+Agile Development
+Alert fatigue
+Algorithm confusion
+Alien vault OTX
+AlientVault OTX
+Alkemist
+Alkemist From RunSafe Security 
+Alkemist Load-time Function Randomization (LFR)
+Allocated Clusters
+Allow HTTP response header
+Allowed actions - Pre-engagement
+Alternate Data Streams
+Alternative result formats
+AlwaysInstallElevated
+AlwaysInstallElevated group policy
+AlwaysInstallElevated registry key
+AmCache.hve
+Amcache artifacts
+Amcache.hve
+AmcacheParser
+American Fuzzy Lop (AFL)
+Amsi.dll
+AmsiScanBuffer()
+Analyzing Process Objects
+Analyzing Spidering Results
+Analyzing session values
+Angler
+AngularJS
+Announced tests
+Anonymous Logon
+Ansible Automation
+Anti-Forensics Overview
+Anti-malware Scan Interface (AMSI)
+Antimalware Scan Interface (AMSI)
+Antimalware Scan Interface (AMSI) Powershell
+Anunak
+Aorato
+Apache
+AppArmor
+AppCompatCacheParser
+AppInit_DLLs
+AppInit_DLLs registry key,
+AppLocker
+AppLocker Event Logs
+AppLocker categories
+AppLocker default rules bypass
+AppLocker rules
+AppLocker settings
+AppScan
+AppVerifier
+Appblocker
+Appblocker Rules
+Appcompatprocessor.py
+Appendices
+Appendix: Shellshock
+Application Assessment Methodologies
+Application Compatibility Cache
+Application Deployment Software
+Application Event Log
+Application Installation
+Application Patching 
+Application Testing
+Application Vulnerabilities
+Application and OS Patching
+Application control
+Application control bypass
+Application deployment software
+Application frameworks
+Application identity service
+Application infrastructure
+Applocker Bypass 
+Applocker Default Rules
+ApplyDeltaW
+ApplyPatchtoFileW
+Arachni scanner
+Arbitrary Code Gaurd (ACG) 
+Arbitrary Code Guard (ACG)
+Archaeology
+Architechture Principles
+Architecture Principle 1: Web Proxy Setup
+Architecture Principle 2: Securing DNS Traffic
+Architecture Principle 3: Network Monitoring
+Architecture Principle 4: Network Segmentation
+Artifacts: PowerShell remote
+Artifacts: PsExec
+Artifacts: Remote Desktop
+Artifacts: WMI
+Artifacts: Windows Admin Shares
+Artillery
+Artillery (ADHD)
+AsJob
+Assemblyline
+Assessing App Security
+Assessing application security
+Assessing/Improving application security
+Assessment Comparison Table
+Asset access and data exfiltration
+Assumed breach - why?
+Assumed breach phases
+Assumed breach philosophy
+Assumed breach test
+Assumptions
+Asymmetric algorithm
+Asymmetric crypto system
+Asynchronous JavaScript and XML (AJAX)
+Atexec.py
+Atomic Red Team
+Atomic indicator
+Atomic red team
+Attack Infrastructure
+Attack Life Cycle
+Attack Phases
+Attack Surface Reduction (ASR)
+Attack phases
+Attack platform
+Auth level
+Auth via Mac
+Authenticated vulnerability scan
+Authenticating w/ Burp
+Authentication
+Authentication 
+Authentication Bypass
+Authentication Server (AS)
+Authentication and Authorization Bypass
+Authentication bypass
+Authentication in AD
+Authentication page abuse
+Authentication types
+Authenticator
+Authorization
+Authorization Attacks
+Authorization Attacks: IDOR
+Authorization Attacks: Role enforcement
+Authorization attacks
+AutoOpen
+AutoPlay
+AutoRun
+AutoRun.inf
+AutoStart
+Autodetect Proxy Settings
+Automated Code Review
+Automated Spidering
+Automated code review
+Automated scans
+Automated spidering
+Automating threat hunting
+Autoplay 
+Autopsy
+Autoruns
+Autoruns 
+Autoruns for enterprise 
+Autoruns to WinEventLog
+Azuer AD Authentication
+Azure AD
+Azure AD Access control
+Azure AD Authentication
+Azure AD Authentication Flow
+Azure AD Connect
+Azure AD DS
+Azure AD Directory Strucutre 
+Azure AD connect cloud sync
+Azure AD federation
+Azure AD permissions
+Azure AD protocols
+Azure AD synchronization
+Azure AD vs Active Direcrory 
+Azure AD vs. Active Directory
+Azure AD: Conditional Access Policies
+Azure API management
+Azure Advanced Threat Protection
+Azure Advanced Threat Protection (ATA)
+Azure Automation
+Azure CLI Syntax
+Azure CLI tools
+Azure DevOps
+Azure Extensions
+Azure IAM
+Azure Intro
+Azure Password Spraying
+Azure Permissions
+Azure PowerShell
+Azure Recon
+Azure Run-Command
+Azure Smart Lockout
+Azure VM Operations
+Azure attack paths
+Azure backup
+Azure blobs
+Azure compute
+Azure infrastructure components
+Azure organization
+Azure overview
+Azure permissions
+Azure permissions application
+Azure smart lockout
+Azure smart lockout evasion
+Azure smart lockout evasion ip rotation
+Azure username enumeration
+AzureAD Connect Health Monitoring
+AzureAD Connect Server
+AzureAD Connect Synchronization
+AzureAD Connect: Authentication Methods
+AzureAD applications
+AzureAD connect architecture
+AzureAD directory structure
+AzureAD groups
+AzureAD user accounts
+AzureAD v Active Directory
+AzureHound
+B-Tree
+B-Tree rebalancing
+BASLR - Bottom up Address Space Layout Randomization
+BApp store
+BCWipe
+BIND
+BRICS
+BULK INSERT
+BYOD (Bring Your Own Device), 
+BYOVD
+BackTrack
+Backup Operators
+Backups
+BadUSB
+Bangladesh Bank
+Bangladesh bank heist
+Bangladesh bank heist malware
+Banking trojans
+Base64
+Basic Authentication Issues
+Basic Authentication Scheme
+Basic authentication
+Basic authentication illustration
+Basic authentication issues
+Batch Files
+Battering Ram
+Battering Ram / Grep Payloads
+Battering ram burp
+Bb
+BeEF
+BeEF + Metasploit
+BeEF Controller
+BeEF Payload colors
+BeEF commands
+BeEF controller
+BeEF hook
+BeEF payloads
+BeRoot
+BeRoot.exe
+Bearer authentication
+Beginner's All-purpose Symbolic Instruction Code (BASIC)
+Behavior-Based Detection
+Behavior-based exfil detection
+Behavioral
+Behavioral Indicators
+Best testing methods
+BeyondTrust Retina network security scanner
+BinDiff
+Binary framing
+Binary scrambling
+Bitmap
+Black Energy
+BlackEnergy 
+BlackEnergy macro dropper
+Blind Boolean inference exfil
+Blind Command Injection
+Blind Command Injection w/ DNS
+Blind data exfil
+Blind data exfiltration
+Blind injection
+Blind injection identification
+Block Low Integrity Images
+Block Low Intergrity Images 
+Block Measurement
+Block Measurement 
+Block Remote Images
+Block USB attacks
+Block Untrused Fonts 
+Block access by location 
+Block based filtering
+Block untested fonts
+Block-Parser
+Blocking Legacy Authentication 
+BloodHound
+BloodHound Detect
+BloodHound Prevent
+BloodHound Prevent and Detect
+BloodHound controls
+BloodHound entities
+BloodHound queries
+BloodHoundAD
+Bloodhound
+Blue Team
+BlueHound
+Book Section
+Bootstrap
+Boromium
+Bottom-Up Address Space Layout Randomization (BASLR)
+Breached credentials
+Breakout time
+Bro
+Bro // Zeek
+Bro exfil
+Broad privilege
+Bromium
+Bromium vs Sentry 
+Bromium vs. Sentry
+Browser Exploitation Framework (BeEF)
+Browser Isolation
+Browser Isolation 
+Browser(s)
+Browsers
+Buffer Overflow Mitigation
+Bug Bounties
+Bug Bounty
+Bug bounties
+Build-in Accounts
+Building an Infractructure
+Built-in Authentication Schemes
+BuiltWith.com
+Bulk Extractor
+Burp Authentication
+Burp Intruder
+Burp Intruder Battering Ram
+Burp Intruder Cluster Bomb
+Burp Intruder Pitchfork
+Burp Intruder Sniper
+Burp Intruder: Reflection Tests
+Burp Repeater
+Burp Scanner
+Burp Scanner: Active/Live
+Burp Scanner: Passive
+Burp Scanner: Push Button
+Burp Scanner: Vulnerability Verification
+Burp Sequencer
+Burp Suite Pro
+Burp authentication
+Burp collaborator
+Burp community edition
+Burp comparer
+Burp crawling/auditing
+Burp dashboard
+Burp decoder
+Burp discover content
+Burp encoding URLs
+Burp engagement tools
+Burp extender
+Burp extensions
+Burp intruder
+Burp live scanning
+Burp passive scanning
+Burp proxy intercept
+Burp push button scanning
+Burp reflection tests
+Burp repeater
+Burp scanner
+Burp scanner configuration
+Burp sequencer
+Burp spider
+Burp suite
+Burp suite pro active/live scan
+Burp target - scope
+Burp target - site map
+Burp target - site map - filter
+Burp vulnerability verification
+BurpSuite: Spider
+Burping parameters
+Business of Penetration Testing: Post Assessment
+Business of Penetration Testing: Preparation
+Bypass Antimalware Scan Interface (AMSI)
+Bypass Application Execution Control
+Bypass Applocker / Leverage Applocker default rules
+Bypass MFA 
+Bypassing Powershell Secuity Controls
+Bypassing Powershell execution
+Bypassing browser filters
+C2
+C2 
+C2 Detecting Channels 
+C2 Detection
+C2 Framework
+C2 Frameworks
+C2 Matrix
+C2 Prevention 
+C2 detection
+C2 prevention
+C2Matrix
+C99.php
+C:\Users\<USER>\AppData\Roaming\Microsoft\Templates\
+CAB files
+CALDERA
+CAPE
+CEO fraud
+CERT-EU
+CET - Control-Flow Enforcement Technology
+CEWL Spidering
+CEWL spidering
+CFG - Control Flow Guard
+CFI - Control Flow Integrity
+CIM: Common Information Model
+CIRCL
+CIRCL (Computer Incident Response Center Luxembourg)
+CIRCL AIL Framework
+CIRCLean
+CIRT: Computer Incident Response Team
+CIS Controls 
+CLR
+CMS - Content Management Systems
+CNAMEs - Canonical Names
+COM (Component Object Model)
+COM (object Hijack)
+COM Object
+COM Object Hijacking
+COM Object Hijacking Detection
+COM Object Hijacking Prevention
+COM Object Hijacking: COM Object Search Order Hijacking
+COM Object Hijacking: Dectect
+COM Object Hijacking: Phantom COM Objects
+COM Object Hijacking: Prevent
+COM Object Hijacking: Prevent and Detect
+COM Search Order Hijacking
+COM object hijacking
+COM objects
+COM search order hijacking
+COM/ActiveX framework
+CORS - Cross Origin Resource Sharing
+CORS Header: Access-Control-Allow-Credentials
+CORS Header: Access-Control-Allow-Origin
+CORS Headers
+CORS headers
+CRC32 Checksum
+CRITS
+CRUD
+CSP - Content Security Policy
+CSRF attack prevention
+CSRF visualized
+CTI acquisition
+CTI: Cyber Threat Intelligence
+CVE - Common Vulnerabilities Exposure
+CVE 2014-0160
+CVE information leakage
+CVE-2014-3704
+CVE-2014-6271
+CVE-2014-7186
+CWE - Common Weakness Enumeration
+CWE 494
+CWE 502
+CWE-829
+Cabine files 
+Cache
+Cache-Control Header
+Cached
+Cached Creds Stealing
+Cached Creds: Compromising Creds
+Cached Creds: Defending Creds
+Cached Hashes
+Cached credential theft
+Cain
+Caldera 
+Caller Check
+Caller check
+Canary
+Canary products
+Canarytokens
+Canarytokens PDF
+Canvas
+Capa Project
+Capability
+Carbanak
+Case management
+Catching Maicious email
+Cc
+Ceded access
+Center for Internet Controls (CIS)
+Center for Internet Security (CIS)
+Central Logging Platform
+Central code repository
+Centralized Logs
+Centralized logs
+Centralizing windows event logs
+CertStream
+Certificate Revocation List
+Certificate Transparency
+Certificate authorities
+Certificate transparency
+Certificate transparency network
+Certificates
+Certificates 
+Chameleon
+Change journal
+Change request method
+Chat (secured)
+Child Process, not allowed 
+Child Processes 
+Chromium
+Cipher
+Cipher suite
+Cisco
+Citadel
+ClamAV
+ClamAv data searching
+Classes of XSS
+Classification
+Clickable Files 
+Clickjacking
+Clickjacking Attack
+Client Credentials Flow
+Client Mitigations
+Client XSS
+Client code
+Client isolation
+Client long term secret key
+Client long-term secret key
+Client side exploit
+Client side exploit common targets
+Client side exploit technique
+Client-side exploits
+Cloud Infrax (More common type)
+Cloud web proxy
+Cloud-based proxies
+Cluster Bomb
+Cluster bomb burp
+Cmd, PS, and WMI Analysis
+Cobalt Strike
+Cobalt Strike Framework
+Code Coverage
+Code Flow
+Code Inject, Rootkits, EXFIL
+Code Integrity Guard
+Code Signing
+Code injection
+Code segment
+CodeSearchDiggity
+Collaborative report writing
+Collection
+Collection of high-quality web application penetration testing fuzzing sources
+Collector
+Column balancing
+Command Injection
+Command Line Arguments
+Command Line logging
+Command and Control
+Command and Control (C&C) (C2)
+Command injection
+Command injection exploitation
+Command injection identification
+Command line
+Command line spidering
+Command prompts
+Commandlets
+Commercial CTI
+Commercial software tools
+Common Exfiltration Strategies
+Common Information Model (CIM)
+Common Information Model (CIM),
+Common Language
+Common Malware Defense Evasion
+Common Malware Locations
+Common Malware Names
+Common Vulnerability Scoring System (CVSS),
+Common exploit techniques
+Common finding repository
+Common intrusion tools
+Common malware names
+Common windows priv esc
+Communication plans
+Comparing patches 
+Competitive intelligence
+Compile-Time Controls
+Component Object Model (COM)
+Compromise Types
+Compromised host
+Compromising Creds
+Compromising Creds: Cached Creds
+Compromising Creds: Hashes
+Compromising Creds: LSA Secrets
+Compromising Creds: NTDS.DIT
+Compromising Creds: Tickets
+Compromising Creds: Tokens
+Computed Indicators
+Computer Emergency Response Team (CERT)
+Computer Emergency Response Team (CERT).
+Computer Incident Response Team (CIRT)
+Computer Incident Response Team (CIRT).
+Conditional access
+Configuration management
+Connecting to the CtF Range Network
+Connections
+Console Application
+Console executables
+ConsoleHost_history.txt
+Constrained Language Mode 
+Constrained language model
+ConstrainedLanguage
+Containment
+Containment 
+Containment phase IR
+Containment/intel development phase
+Content Management Systems (CMSs)
+Content-Security-Policy (CSP)
+Control Flow Enforcement (CET)
+Control Flow Guard (CFG)
+Control Flow Integrity (CFI)
+Control plane
+Control-Flow enforcement Techology (CET)
+ControlFlow Guard (CFG)
+ConvertTo-SecureString cmdlet
+Cookie
+Cookie Attribute: HTTPOnly
+Cookie Attribute: SameSite
+Cookie Attribute: Secure
+Cookie Flag: HTTPOnly
+Cookie flag: Secure
+Cookie: Session Identifier
+Cookies
+Copy Malware
+Core Impact
+Core Isolation
+Core Isolation Memory 
+Cortana
+Cortex
+Cortex,
+Covering tracks
+Cowrie
+Cracking Modes
+Cracking sniffed creds
+CreateInstance
+CreatePatchFIleW
+CreateThread
+CreatedDeltaW
+Cred Stealing Prevention
+Cred Storage 
+Cred theft and reuse control
+CredSSP
+Creddump
+Credential Access
+Credential Attack Mitigation
+Credential Availability Table
+Credential Gaurd 
+Credential Guard
+Credential Guard Bypass
+Credential Guard v Pass the Hash
+Credential Harvesting
+Credential Stuffing
+Credential Theft
+Credential access
+Credential databases
+Credential delegation (CredSSP)
+Credential guard requirements
+Credential harvesting
+Credential stuffing
+Critial Remediation Event Steps
+Cross Origin Resource Sharing (CORS)
+Cross-Site Request Forgery
+Cross-Site Request Forgery Exercise
+Cross-Site Scripting (XSS) Primer
+Cross-Site Scripting (XSS) vulnerabilities
+Cross-site Request Forgery (CSRF)
+Cryptographic failures
+Cryptography
+Crysis/LeChiffre
+CtF Event Objectives
+Cuckoo
+Cuckoo Signatures 
+Cuckoo URL analysis
+Cuckoo architecture
+Cuckoo installation
+Cuckoo output
+Cuckoo reporting
+Cuckoo signatures
+Current Branch (CB)
+Current Branch (CB)—
+Current Branch for Business (CBB)
+Current Branch for Business (CBB)—
+Custom
+Custom Event Log
+Custom Header: Session Identifier
+Custom Wordlist Generator (CeWL)
+Custom database errors
+Custom developed applications
+Cyber Crime
+Cyber Crime: Crypto Mining
+Cyber Kill Chain
+Cyber Kill Chain 
+Cyber Kill Chain Limitations 
+Cyber Threat Intelligence (CTI)
+Cyber Threat Intelligence Role
+CyberChef
+Cybercrime
+Cybercrime 
+DAST
+DAST - Dynamic Application Security Testing
+DAST Tools
+DAST web app security scanner
+DB Fingerprinting
+DBIR - Data Breach Investigations Report
+DCC - Domain Cached Credentials
+DCShadow
+DCShadow Detection
+DCShadow technique
+DCSync
+DCSync Detection
+DCSync technique
+DDLmain()
+DELTA_APPLY_FLAG_ALLOW_PA19 
+DEP- Data Execution Prevention
+DKOM
+DLL Hijacking: Persistence
+DLL Injection
+DLL Persistence
+DLL Search Order
+DLL Search Order Hijacking
+DLL Search Order Hijacking Detection
+DLL Search Order Hijacking Prevention
+DLL Search Order Hijacking: Detect
+DLL Search Order Hijacking: Prevent
+DLL Search Order Hijacking: Search Order
+DLL Side-Loading
+DLL hijacking
+DLL injection
+DLL relative path hijacking
+DLL search order hijacking
+DLLMain()
+DLLs
+DMARC 
+DMARC (Domain-based Message Authentication, Reporting, and Conformance)
+DNS - Domain Name System
+DNS Brute Force Scans
+DNS Recon tools
+DNS Records
+DNS Repositories
+DNS brute force scans
+DNS irregularities
+DNS querying
+DNS traffic security
+DNS with Blind Command Injection
+DNS with Blind Command Injection/ Data Xfil
+DNSDB
+DNSDumpster
+DNSDumpster.com
+DNSRecon
+DOM
+DOM - Document Object Model
+DOM Tree
+DOM based XSS
+DOM document
+DOM event handler
+DOM event handler bypass
+DOM event handler bypass examples
+DOM tree inspection
+DOM window
+DOWNLOAD_DAY(1)
+DOWNLOAD_DAY(30)
+DREAD
+DREAD 
+DRSR: Directory Replication Service Remote
+DRSUAPI
+DSE
+DSQuery
+DTD
+DYNAMICBASE.
+Dangerous scanner plugins
+DarkSide
+DarunGrim 4
+Data Attacks
+Data Breach Investigations Report (DBIR)
+Data Collection
+Data Execution Prevention (DEP)
+Data Exfil
+Data Exfiltration
+Data Loss Prevention systems (DLP)
+Data Reduction
+Data Storage Offline
+Data Storage Online
+Data Visualization
+Data attacks
+Data classification
+Data exfil across the network
+Data exfil detection
+Data exfil network detection
+Data exfil network prevention
+Data exfil platforms
+Data exfil prevention
+Data exfil protocols
+Data exfil via AV
+Data exfiltration - assumed breach
+Data formats
+Data on compromised systems
+Data plane
+Data prep
+Data segment
+Data type balancing
+DataSectionObject
+Database Attacks
+Database enumeration
+Database error messages
+Database/Tables/Columns
+Databases
+Dates and Time of Day - Pre-Engagement
+David Biancos Pyramid 
+Dce_rpc
+Dcomexec.py
+Dd
+Debrief
+Debrief presentation
+Debriefing
+Decoy Files
+Decoy files
+Decoys
+Deep privilege
+Deep-Dive Forensics
+Deep-dive forensics
+Default.rdp
+Defeat EMET 
+Defeat EMET and Exploit Guard
+Defeat Exploit Gaurd
+Defend Kerberoasting
+Defend Over-Pass-The-Hash
+Defend SMB Attacks
+Defend Silver Ticket
+DefenderCheck
+Defense Cred Stealing / reuse
+Defense Evasion
+Defense evasion
+Defense-in-Depth
+Defensive Countermeasures
+Defining Terms
+Defining Threat Intelligence
+Dehashed.com
+Delegate Token
+Deleted files
+Delivery
+Delphi backdoor
+Demiguise
+Department of Homeland Security's (DHS)
+Deserialization
+Design Phase
+Design phase
+Desired State Configuration (DSC)
+Desktop SSO
+Detect Exfiltration
+Detect Persistence
+Detect application installations and prompt for elevation"
+Detecting Admin Creation
+Detecting Command and Control channels
+Detecting DCShadow
+Detecting DCSync
+Detecting Domain Dominance
+Detecting Golden Ticket
+Detecting Group Policy Modification
+Detecting Lateral Movement Event Logs
+Detecting Skeleton Key
+Detection File Search
+Detection Lateral Movement
+Detection and Prevention
+Detection capability
+Developer tools
+Device Code Flow
+Device Guard
+Diaphora
+Dictionaries
+Dictionary updates
+Dig
+Digest Authenication Issues
+Digest Authenication Scheme
+Digest authentication
+Digest authentication issues
+DigiNotar
+Digital forensics
+DirBuster Project OWASP
+Direct Kernel Object Manipulation
+Direct Kernel Object Manipulation (DKOM)
+Direct Page Access (Authn Bypass)
+Direct page access
+Directory
+Directory Handle
+Directory Replication Service Remote
+Directory Replication Service Remote (DRSR)
+Directory Replication Service Remote (MS-DRSR) protocol.
+Directory Service
+Directory Traversal ../../.. etc
+Directory browsing
+Directory browsing identification
+Directory information
+Directory structure
+Directory traversal
+DirtyCow
+Disable Extension Points
+Disable Extension Points 
+Disable Win32k System Calls
+Discovering SQLi
+Discovering XSS
+Discovery
+Dist ributedKansa
+Distributed Denial of Service (DDoS)
+Dns-brute.nse
+Dnsdumpster.com
+Dnsrecon.py
+Do Not Allow Child Processes
+Document Object Model (DOM)
+Dom-Based XSS
+Domain / Local ID
+Domain Account Hash
+Domain Admin Account Creation
+Domain Admins
+Domain Cached Credentials (DCC)
+Domain Discovery and Enumeration
+Domain Dominance
+Domain Dominance/Golden Ticket
+Domain Domination
+Domain Fronting
+Domain Fronting 
+Domain Functional Level (DFL)
+Domain Generation Algorithms (DGA)
+Domain Hardening: SCT and STIG
+Domain Keys Identified Mail (DKIM
+Domain Keys Identified Mail (DKIM)
+Domain Name System (DNS)
+Domain Persistence
+Domain PrivEsc
+Domain Protected Users
+Domain Protected Users Group
+Domain Replication Service
+Domain Users
+Domain admin creation
+Domain controller
+Domain expertise hypothesis
+Domain protected users
+Domain structure
+Domain trust
+Domain-based Message Auth, Report and Conform (DMARC)
+Dominating the AD: Basic Strategies
+Dorking
+Dorking google
+Double Extenstions 
+Dradis
+Dridex
+Drive Letter
+Drive-by download
+Driverbl
+Drop box
+Drop box / Leave behind
+DropSmack
+Dropbox
+Drupal
+Drupalgeddon
+Drupalgeddon + Metasploit
+Drupalgeddon dissected
+DsGetNCChanges
+Duckhunt
+DuckyScript
+Dumpit
+Dun & Bradstreet
+Duqu APT
+Dynamic Analysis
+Dynamic Application Security Testing (DAST)
+Dynamic Delivery
+Dynamic analysis
+Dynamic web application security scanner(s)
+EAF - Export Address table Filtering
+EAP
+EAP over LAN (EAPOL)
+EAP-IKEv2
+EAP-PSK
+EAP-PWD
+EAPOL
+EAT - Export Address Table
+ECMAScript
+EDB - Exploit DataBase
+EDNS
+EDR: Endpoint Detection & Response
+EExploit Guard
+ELK
+EMET
+EMET and Exploit Gaurd Defeat
+EMET bypass
+EMET bypass disclosure
+EMET: Enhanced Mitigation Experience Toolkit 
+ENDBR32
+ENDBR64
+EPROCESS
+ERM - Enterprise Risk Management
+ES-Hadoop
+ESE (Extensible Storage Engine) format
+ESE format (Extensible Storage Engine)
+EVTX
+EXERCISE: Authentication Bypass
+EXERCISE: Burp Sequencer
+EXERCISE: CSRF
+EXERCISE: Command Injection
+EXERCISE: Local/Remote File Inclusion
+EXERCISE: Metasploit
+EXERCISE: Nuclei/Jenkins
+EXERCISE: Python
+EXERCISE: Testing HTTPS
+EXERCISE: WPScan and ExploitDB
+EXERCISE: When Tools Fail
+EXERCISE: ZAP and ffuf Forced Browse
+EXERCISE:XXE
+EchoTrail
+Ee
+Effect of the Vulnerability
+Elastic Stack
+Elastic database dump
+Elasticsearch
+Elasticsearch-Logstash-Kibana (ELK)
+Elasticsearch-Logstash-Kibana (ELK) for Hunting
+Elevation of Privilege Card Game
+Email Phishing
+Email Security Best Practices
+Email malware detection pipeline
+Email phishing
+Email spoofing
+Emet.dll
+Emotet
+Empire
+Empire 
+Empire Lateral Movement 
+Empire Module Categories
+Empire PS 
+Empire PS modules 
+Employee roles
+Employee targets
+EnableScriptBlockLogging
+Enabling macros tricks
+Encoded payloads reflected XSS
+Encoding URLs
+End User Security Awareness
+End Users in Cybersecurity
+Endpoint Detection & Response (EDR)
+Endpoint Detection & Response (EDR) tools
+Endpoint Detection and Response (EDR)
+Endpoint Logs
+Endpoint Visibility SIGMA
+Endpoint detection Superpowers on the cheap
+Engagement Closure
+Enhanced Mitigation Experience Toolkit (EMET)
+Enhanced Mitigation Experience Toolkit (EMET),
+Ent ry
+Enter-PSSession
+Enterprise Admins
+Enterprise Incident Response
+Ephemeral shell
+Eprocess blocks
+Eradication
+Eradication and Remediation
+Eradication phase IR
+Eradication/remediation phase
+Eraser
+Escalation (sudo)
+Escaping sandbox 
+Espionage
+Ethics social engineering
+Eval function
+Evasion
+Eve json
+Even Logs
+Event Handle
+Event ID 4769
+Event ID 5140
+Event ID: 4624
+Event ID: 4624/4634 // XP/2K3
+Event ID: 4625
+Event ID: 4634/4647
+Event ID: 4648
+Event ID: 4672 // XP/2K3 576
+Event ID: 4720 / 4726
+Event ID: 4778 / 4778
+Event Log Analysis
+Event Log Cheatsheat
+Event Log Clearing
+Event Log Expl orer
+Event Log Monitoring
+Event Log Tracking
+Event Log: Application
+Event Log: Custom
+Event Log: Security
+Event Log: System
+Event Logs Cheat sheat by Achaeology 
+Event Logs Summary
+Event Logs What?
+Event Logs Where?
+Event Viewer
+Event logs
+EventID
+Evidence of Malware Exe // Pass-the-Hash Toolkit
+Evidence of Malware Exe // WER // Report.wer
+Evilginx
+Evilgnix
+EvtxECmd
+ExFat
+Exchange backdoor turla
+Execution Control Bypass
+Execution Control Bypass Appblocker
+Execution Prevention
+Execution Strategies
+Execution control
+Execution without exe
+Executive summary
+Exercise: Detecting Data Exfiltration
+Exercise: Domain Dominance
+Exercise: Finding Malware Using Volatility and YarGen
+Exercise: Hunting Your Environment Using osquery
+Exercise: Leveraging Threat Intelligence with MISP and Loki
+Exfil
+Exfil Detection
+Exfil Prevention
+Exfil via Cloud AV
+Exfil via Ping
+Exfiltration
+Exfiltration Detection
+Exfiltration Prevention
+Exfiltration Staging
+Exfiltration Via network
+Exfiltration via online
+ExifTool
+Expand
+Explicit Credentials
+Exploit
+Exploit Categories
+Exploit Gaurd
+Exploit Gaurd Mitigations 
+Exploit Guard
+Exploit Kits
+Exploit Mitgation Table
+Exploit Mitigation Controls
+Exploit Mitigation Quick Refernce
+Exploit Wednesday
+Exploit Wednesdays
+Exploit categories
+Exploit guard GUI
+Exploit guard application testing
+Exploit kit
+Exploit kit controls
+Exploit kit infection
+Exploit mitigation controls
+Exploit mitigation timeline
+Exploit repositories
+Exploit-DB
+ExploitGuard
+Exploitation
+Exploitation - Why?
+Exploitation Kits
+Exploitation risks
+Exploitation toolkits / frameworks
+Exploiting SQLi
+Exploition
+Export Address Table (EAT)
+Export Address Table Filtering (EAF and EAF+)
+Export Address table Filtering (EAF and EAF+)
+Extensible Authentication Protocol (EAP)
+Extension Points disable
+External Testing
+External domains
+External testing systems
+Externally Sourced Scripts w/ SOP
+Externally sourced scripts
+Extracting Cumulative Updates
+Extracting windows updates
+Eye Witness
+EyeWitness
+F F-Response
+F-Response Accelerator
+F-Response Intro
+F-Response License Manager
+F-Response Management Console
+FAT
+FENRIR
+FIMService: Forefront Identity Manager Service
+FLASHFLOOD
+FOCA
+FPC (full packet Capture)
+FROMless SELECT
+FTK Imager
+FTP
+Failed Logon
+Failed Remediation
+Fake Administrative Account
+Fake Documents
+Fake admin
+Fake documents
+Fall Creators Update
+Fast Foren sics
+Feature Updates
+Federation Integration (ADFS)
+Fenrir
+Ff
+Ffuf
+File Carving
+File Downloads
+File Extensions finding
+File Handle
+File Inclusion and Directory Traversal
+File Search Detection
+File System Layer
+File System Timeline
+File Transfer Protocol (FTP)
+File pilfering
+File system redirection
+FileBlockExecutable
+FileBlockExecutable Sysmon
+FileSys Timeline Create & Analys
+File_Object
+Fileless Malware
+Filename layer
+Filter bypass/evasion
+Filter file
+Filter test
+Filtering
+Filtering the Super Timeline
+FinalExceptionHandler
+Finalizing pentest planning
+Find-InterestingDomainShareFile
+Find-LocalAdminAccess
+Findings
+Fire & Forget
+Fire Glass
+FireEye EMET Bypass Disclosure
+Fireeye Bypass
+Firefox Downloads
+Firefox URL encoding
+Fixup Array
+Flameshot
+Flan Scan
+Flightsim Flight Simulator 
+Flowbit
+Follow-up phase
+Fooling The Hound
+Fooling the hound
+Foot Print 
+Foot Print, finding your own foot print 
+ForceASLR
+Forced Browse: ZAP
+Forced Browsing
+Forced Browsing: Burp: Discover Content
+Forced browsing
+Forensic Analysis
+Forensic analysis
+Forensics Process
+Form based auth illustrated
+Form based auth issues
+Form based authentication
+Form-Based Authentication
+Form-Based Authentication Components
+Form-Based Authentication Issues
+Fortify 
+Fortify Static Code Analyzer
+Fortify webinspect
+Fortinet
+Forwarded Events
+Framework Functions
+Frameworks and Methodologies
+Free software tools
+Full Language Mode (Default)
+Full Packet Capture (FPC)
+Full knowledge test
+Full language mode
+Full packet capture
+Fundamental Endpoint Logs
+Fuzzdb
+Fuzzing
+Fuzzing Instrumented 
+Fuzzing Intelligent Mutations 
+Fuzzing Mutations 
+Fuzzing Randomized 
+Fuzzing Static 
+Fuzzing examples
+Fuzzing in-depth
+Fuzzing response
+Fuzzing with burp
+Fuzzing: Reviewing the Responses
+Fuzzing: ZAP
+FxCop
+GA - Global Admin
+GECOS
+GET
+GET URI
+GHDB - Google hacking database
+GPO Stealth Domain
+GPO detection
+GPO persistence
+GPP - Group Policy Preferences
+GRR
+GTFOBins
+GUI app
+GUI executables
+Gadget chain
+Gadget classes
+Gadgets
+Gain Authority
+Gallery application
+GandCrab
+Gatekeeper
+GatherContacts
+Gathering intel through kill chain completion
+Generated CTI
+Get-AppLockerConfig
+Get-AppLockerStatus
+Get-ApplockerConfig
+Get-Autorunsc
+Get-ChildItem
+Get-ExecutionPolicy
+Get-IOCsByPath
+Get-InjectedThread
+Get-LocalAdmins
+Get-MasterFileTable
+Get-ProcessMitigation -System
+Get-RdpConnectionLogs
+Get-RekalPslist.ps1
+Get-SchedTasks
+Get-SvcAll
+GetADUsers.py
+GetCredentialType
+GetModuleHandle
+GetSystemDirectory
+GetUserSPN.py
+GetUserSPNs.py
+GetWindowsDirectory
+Gg
+GhostPack
+Ghostproject
+Global Offset Table (GOT)
+GoPhish
+Goals - Pre-engagement
+Goals - Scanning Phase
+Golden Ticket
+Golden Ticket Creation with Rebeus
+Golden Ticket Flow 
+Golden Ticket Properties
+Golden Ticket Properties 
+Golden Ticket, Skeleton Key, DCSync, and DCShadow
+Golden ticket
+Golden ticket Detection
+Golden ticket Kerberos flow
+Golden ticket generation
+Golden ticket properties
+Goldeneye/Petya/HD DCryptor
+Google Drive
+Google Hacking Database
+Google Hacking Database (GHDB)
+Google Rapid Response (GRR)
+Google Search Directives
+Google Search Operators 
+Google dorks
+Google search operators
+Google shunning
+Gophish
+Graph frames
+GraphFrames:
+Graphial Device Interface (GDI) fonts
+Greenshot
+Grep - Extract
+Grok
+Group Policy Modification
+Group Policy Modification Detection
+Group Policy Preferences (GPP)
+Group Policy Preferences (GPP) files
+Gsecdump.exe
+Guard pages
+Guardrails
+HAMMERTOSS
+HCL appscan
+HEAD
+HEASLR - High Entropy Address Space Layout Randomization
+HELK
+HELK: Hunting with Elasticsearch-Logstash-Kibana
+HKCU:\Software\Policies\Microsoft\Windows\PowerShell
+HKCU\Environment\UserInitMprLogonScript
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+HKEY_CURRENT_USER\Software\Microsoft\Windows Script Host\Settings
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID
+HKEY_USER\Software\CLSID
+HKLM:\Software\Policies\Microsoft\Windows\PowerShell
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\RunAsPPL
+HP Fortify
+HPACK
+HSM devices (Hardware Security Modules)
+HSM: Hardware Security Modules
+HSTS - HTTP Strict Transport Security
+HSTS - HTTP strict transport security
+HTA
+HTA - HTML Application
+HTA control
+HTA: HTML Application
+HTA: environmental keying
+HTA: mshta.exe
+HTA: securing
+HTA: wscript.shell
+HTML Application (HTA)
+HTML Injection attack
+HTML context
+HTML injection
+HTML injection PoC
+HTTP 0.9/1.0
+HTTP 1.1
+HTTP 2
+HTTP 3
+HTTP Error Codes
+HTTP GET
+HTTP HEAD
+HTTP Module
+HTTP OPTIONS
+HTTP POST
+HTTP Request: Methods/Verbs
+HTTP Request: Referer
+HTTP Request: User-Agent
+HTTP Response Security Controls
+HTTP Security Headers
+HTTP Strict Transport Security (HSTS)
+HTTP Syntax and Semantics
+HTTP TRACE
+HTTP authentication schemes
+HTTP methods/verbs
+HTTP proposal
+HTTP request
+HTTP response
+HTTP security headers
+HTTP semantics
+HTTP semantics+
+HTTP status code
+HTTP syntax
+HTTP(S)
+HTTP/1.0
+HTTP/1.1
+HTTP/2
+HTTP/3 (QUIC)
+HTTPOnly
+HTTPOnly Cookie Attribute
+HTTPOnly Cookie flag
+HTTPS Certificate Virtual Host Discovery
+HTTPS Certificates
+HTTPS and Testing for Weak Ciphers
+HTTPS certificate virtual host discovery
+HTTPS: SSL/TLS Handshake
+HTTPS:Transmission Security for HTTP
+Handle
+Handle usage Validation
+Handling Large Scans
+Handover
+Hardening
+Hardening 
+Hardening HTA 
+Hardening Linux
+Hardening NTLMv2 Defense 
+Hardening Powershell
+Hardening SMB Defense 
+Hardening VBA MACROS
+Hardening WSH
+Hardening with GPO
+Harding from scripts 
+Harding the easy/quick win
+Hardware Security Modules (HSM)
+Hash Dumping
+Hash Lookups
+Hashcat
+Hashcat 
+Hashcat dictionaries and mangling
+Hashcat hash types
+Hashcat masks
+Hashcat.potfile
+Hashes
+Hashes: Defending Creds
+Hashes: Logon Type
+Hashing algorithm
+HaveIBeenPwned.com
+Haveibeenpwned
+Health Monitororing AD Connect
+Heao Integrity 
+Heap Spray 
+Heap Spray Protection
+Heap segment
+Heap spray
+HeartBleed
+Heartbleed
+Hh
+Hibernation File Analysis
+Hidden Form Field: Session Identifier
+Hidden form fields and CSRF tokens
+Hiding in plain sight
+Hiding techniques
+High privileges lateral movement cycle
+Hijack
+Hijacking AV
+Hints
+History of Credential Attack Mitigation
+Holy Trinity 
+Honey Hashes 
+HoneyBadger (ADHD)
+HoneyHash
+HoneyPot
+HoneyPot vs Canary
+Honeypot
+Honeypot: Kippo SSH Server
+Hooking
+Host based firewalls
+Host-Based Agents 
+Host-based Firewalls
+Host-scoped cookie
+Hostname - Citrix StoreFront portals
+Hostname - Online email
+Hostname - VPN
+Hostname - spraying targets
+Hostname info - Infrax Recon
+HttpOnly cookie attribute
+Human Interface Device (HID)
+Human Operater Ransonware
+Hunter.io
+Hunter.io (Recon - User)
+Hunting ELK
+Hunting Evil: From Automated to Manual
+Hybrid password guessing
+Hydra
+Hydra syntax
+Hyper-V,
+I/O Request Packets (IRP)
+IAF - Import Address Filtering
+IAM Assignable Scopes
+IAM Permissions / Actions
+IAM Permissions / Not Actions
+IAM Permissions / dataActions
+IAM Permissions / not dataActions
+IAM Role Name
+IAM permissions document
+IAST - Interactive Application Security Testing
+IAT hook
+ICAP: Internet Content Adaptation Protocol
+ICV (Integrity Check Value)
+ID: 5140
+IDA - Interactive Disassembler
+IDS & NSM
+IDS Mode (inline) 
+IDS Passive 
+IDS Protection or Prevention 
+IDS Rulesset
+IEEE 802.1X
+IEEE 802.1X-2010
+IEEE 802.1x
+IEF
+IIS - Internet Information Services
+IIS Backdoor
+IIS backdoor
+IIS backdoor detection
+IMDS - Instance Metadata Service
+INDXParse.py
+IOC
+IOC Editor
+IOCe
+IPC$
+IPv4 Header
+IPv6 Header
+IR & Threat Hunting
+IR Process
+IR and Hunt Team Roles
+IR scripting
+IR: Hunting
+IRP
+Icecast exploit example
+IdP
+Idempotent HTTP methods
+Identification
+Identification 
+Identification phase
+Identification phase IR
+Identify Potential Threats
+Identifying Unauthorized Applications
+Identifying Web Server Components
+Identifying web server components
+Identity and access management (IAM)
+Identity provider
+Ii
+Image Dependency validation
+ImageSectionObject
+Impacket
+Impacket remote execution tools
+Impact
+Impersonation Tokens
+Implementation Phase
+Implementation phase
+Import Address Filtering (IAF)
+Import Address Table (IAF)
+Import Address Table (IAT)
+Improving Standard Windows Event Logs
+Improving windows event logs
+In the Beginning…
+Incident Response
+Incident Response Detection and Intelligence Loop
+Incident Response Process
+Incident Response: Containment
+Incident Response: Eradication
+Incident Response: Identification
+Incident Response: Lessons Learned
+Incident Response: Powershell
+Incident Response: Preparation
+Incident Response: Project Public Playbooks
+Incident Response: Recovery
+Incident Response: WMI
+Incident response
+Incognito
+Incognito stealing creds
+Index
+Indicator of Compromise
+Indicator of Compromise (IOC)
+Indicators
+Indicators of Compromise
+Indicators of Compromise (IOC)
+Indirect branch
+Indx2Csv
+Information Leakage
+Information Leakage Types
+Information Leakage: Directory Browsing
+Information Leakage: Searching for
+Information leakage
+Information leakage types
+Infrastructure
+Infrastructure targets
+Infrax
+Initial Access
+Initial Compromise
+Initial access
+Initial compromise
+InkySquid
+Inodes
+Insecure Deserialization
+Insecure Deserialization -> Remote Code Execution
+Insecure Direct Object Reference (IDOR)
+Insecure deserialization
+Insecure deserialization exploitation
+Insecure deserialization locale
+Insecure deserialization remote code execution
+Insecure direct object reference
+InsightVM
+Instagram C2
+Instagram posts
+Installation
+Installutil.exe
+Instance Metadata Services (IMdS)
+Instrumented Fuzzing
+Insufficient Logging and Monitoring
+Integrated Windows Authentication
+Integrated Windows Authentication Issues
+Integrated windows authentication
+Integrated windows authentication illustration
+Integrated windows authentication issues
+Integrity hashes
+Intelligence
+Intelligence driven hypothesis
+Intelligence-driven hypothesis
+Intelligent Mutation Fuzzing
+Intent
+Intentional shared data
+Inter-protocol Stored XSS
+Interactive Disassembler (IDA)
+Interactive Logon
+Interception Proxies
+Interception proxies
+Intermediate CA
+Intermidiate CA's 
+Internal Testing
+Internal network test
+Internal testing systems
+Internet Content Adaptation Protocol (ICAP)
+Internet Footprint: Assessing
+Internet Footprint: Understanding
+Internet Message Access Protocol (IMAP)
+Internet Relay Chat (IRC )
+Internet footprint information
+Internet footprint technical
+Interview Personnel
+Intro to Active Directory
+Intro to Command and Control (C2)
+Introducing the Super Timeline
+Introduction to Memory Analysis
+Intrusion Detection System (IDS)
+Intrusion Methodology Roadmap
+Intrusion Prevention System (IPS)
+Intune
+InventoryApplication
+InventoryDriverBinary
+Invivti aka netsparker
+Invoke-Command
+Invoke-CredentialPhisher
+Invoke-Expression
+Invoke-Kerberoast
+Invoke-Obfuscation
+Invoke-Phant0m
+Iptables redirection
+Ivanti
+JA3
+JA3S
+JAVA
+JBroFuzz
+JEA helper
+JEA: Just Enough Administration
+JHUHUGIT
+JMS - Java Message Service
+JMX - Java Management Extension
+JPCERT / Sysmonsearch
+JS Dropper
+JS code context
+JSON
+JSON (JavaScript Object Notation)
+JSON Web Token (JWT)
+JSON attacks
+JSON.parse()
+JScript
+JScript Malware Dropper
+JScript obfuscation
+JWE - JSON Web Encryption
+JWK - JSON Web Key
+JWS - JSON Web Signature
+JWT (JSON Web Tokens)
+JWT - JSON Web Token
+JWT Claims
+JWT Header
+JWT Issues
+JWT Parts(1): Header
+JWT Parts(2): Payload
+JWT Parts(3): Signatures
+JWT Structure
+JWT claims
+JWT issues
+JWT payload
+JWT signature
+JWT structure
+Java Server Faces implementation
+Java insecure deserialization
+JavaScript
+JavaScript & DOM
+JavaScript Frameworks
+JavaScript Server-Side
+JavaScript browser objects
+JavaScript frameworks
+JavaScript functions
+JavaScript methods
+JavaScript objects
+JavaScript overview
+JavaScript properties
+JavaScript sever side
+JavaScript web page interaction
+Javelin
+Javelin AD|Protect
+Jj
+John Speed
+John output
+John the Ripper
+John vs Hashcat
+John.conf
+John.pot
+Jscript malware dropper
+Jupyter Notebook:
+Jupyter notebook
+Just Enough Administration (JEA)
+KAPE Intro
+KB2871997
+KDBG
+KDC long term secret key
+KDC long-term secret key (domain key)
+KPCR
+KSQL
+KSQL:
+Kafka
+Kafka:
+Kali Linux
+Kansa
+Kansa Modules.conf
+Kansa distributed
+Kansa.ps1
+Kansa: Powershell Framework
+Kaspersky
+Kerberoast
+Kerberoast targets
+Kerberoastable accounts
+Kerberoasting
+Kerberoasting Defense
+Kerberoasting controls
+Kerberoasting tools
+Kerberos
+Kerberos AS-REQ
+Kerberos AS-RES
+Kerberos Attack
+Kerberos Attack Mitigations
+Kerberos Attacks
+Kerberos Auth process
+Kerberos Authentication
+Kerberos Encryption Types
+Kerberos Over-pass-the-hash
+Kerberos PAC
+Kerberos SPN
+Kerberos ST - service ticket
+Kerberos Summary
+Kerberos TGS-REP
+Kerberos TGS-REQ
+Kerberos TGT - ticket granting ticket
+Kerberos and NTLMv2
+Kerberos attack
+Kerberos auth overview
+Kerberos authentication
+Kerberos details
+Kerberos long term keys
+Kerberos obtaining tickets
+Kerberos overall flow
+Kerberos requesting a ticket
+Kerberos ticket reuse
+Kerberos.dll
+Kernel Debugger Datablock (KDBG)
+Kernel Persistence 
+Kernel Processor Control Region (KPCR)
+Kernel Space
+Kernel attacks
+Kernel exploits - Linux
+Kernel space
+Kerroasting defence 
+Key Architectural Principles 
+Key Controls 
+Key Distribution Center
+Key Distribution Center (KDC)
+Key Distribution Center [KDC],
+Key Search Operators // Google dorks
+Key search operators
+Keys to Rule all 
+Kibana
+Kickoff call
+Kill Chain Completion
+Kill chain
+Kippo Fake SSH
+Kippo HoneyPot SSH Server
+Kiwi
+Kk
+Klist
+Knowledge Base (KB)
+Knowledge base
+Kolide Fleet
+Kolide fleet architecture
+LAB 1.1: Environment Orientation
+LAB 1.2: Consuming Threat Intelligence
+LAB 1.3: Red Team Planning
+LAB 1.4: Reconnaissance and Password Attacks
+LAB 2.1: C2 Introduction with Empire
+LAB 2.2: Cobalt Strike Framework
+LAB 2.3: Pivoting and Redirection
+LAB 2.4: Setting Up Redirectors
+LAB 3.1: Creating and Testing Payloads
+LAB 3.2: Initial Access
+LAB 3.3: Discovery and Escalation
+LAB 3.4: Persistence
+LAB 4.1: Enumerating Active Directory with Different Tools
+LAB 4.2: Privilege Hunting
+LAB 4.3: User Impersonation
+LAB 4.4: Lateral Movement in Active Directory
+LAMAN Hash algorithm
+LANMAN
+LANMAN Challenge and Response
+LAPS
+LAPS: Local Administrator Password Solution
+LASASS 
+LDAP AD Querying
+LFH - Low Fragmentation Heap
+LFI - Local File Include
+LFI impact
+LFR - Load-time Function Randomization
+LLMNR
+LLMNR (Link-Local Multicast Name Resolution) 
+LLMNR Link-Local Multicast Name Resolution
+LM
+LMOWF
+LNK files
+LOAD_FILE()
+LOLBAS
+LOLBin
+LOLBins
+LSA Secrets
+LSA Secrets: Compromising Creds
+LSA Secrets: Decrypting
+LSA Secrets: Defending Creds
+LSASS Cred Dump
+LSASS Memory stealing creds
+LSA_ISO_RPC_server
+Lab
+Lab 5.1: AD Privilege Escalation
+Lab 5.2: AD Persistence
+Lab 5.3: Action on Objectives
+Lab 5.4: Red Team Closure
+Lab Systems
+Lab essentials outline
+Lab systems
+Large Scans - Speeding Up
+Large scans - Limiting Scope
+Lat. Movement
+Lateral Movement
+Lateral Movement 
+Lateral Movement - assumed breach
+Lateral Movement: PsExec
+Lateral Movement: WMI
+Lateral movement
+Lateral movement 
+Lateral movement detection via event logs
+Lateral movement example
+Laws
+Layer 2 Protections
+Lazy linking
+Least Frequency of Occurrence
+Least Privilege
+Least Privilege 
+Legacy Authentication
+Lessons Learned 
+Lessons learned phase IR
+Let the Games Begin
+Light touch
+LinkedIn Open Networkers (LIONS)
+LinkedInt
+Linux
+Linux Escalation
+Linux File Structure
+Linux exploit suggester
+Linux file system
+Linux for Pen Testers
+Linux redirection
+Live Memory Forensics
+LiveSSP
+Living off the land windows
+Ll
+Load Library Protection
+Load-time Function Randomization (LFR)
+LoadLibraryA()
+LoadLibraryExW()
+Local Administrator Password Solution (LAPS)
+Local File Inclusion (LFI)
+Local File Inclusion (LFI) impact
+Local NT Hashes
+Local Service
+Local exploit of high-privileged program or service
+Local privilege escalation exploit
+Local privilege escalation types
+Local users risk
+LockBit
+Locky
+Log Centrailiztion 
+LogFileParser
+Logged Events and Sources
+Logged events and sources
+Logging
+Logic Flaws
+Logic Flaws: WSTG Guidance
+Logic Flaws: Workflow Tampering
+Logic flaws
+Logic flaws discovery
+Login scripts
+Logon Events
+Logon ID
+Logon Type
+Logon Type Codes
+Logon error codes
+Logon script
+Logon scripts key
+Logon types
+Logon using explicit credentials (RunAs)
+LogonType 9
+Logs
+Logstash
+Loki
+Loki Admin creds
+Loki CLI
+Loki CLI 
+Loki IOC
+Loki Plugins
+Loki Scoring
+Loki Win32 and Win64
+Loki and Thor Scoring 
+Loki log file 
+Loki logs
+Loki on windows
+Loki plugins
+Long-Term Servicing Branch (LTSB)
+Long-Term Servicing Branch (LTSB)—
+Lookaside Lists
+Lookyloo
+Low privileges lateral movement cycle
+LsaIso.exe
+MAC authentication bypass
+MACB
+MACsec
+MACsec 802.1X 
+MASLR - Mandatory Address Space Layout Randomization
+MBAE - Malwarebytes Anti-Exploit
+MBAE GUI
+MBAE debugger
+MBR
+MCAS
+MDM solution
+MFA Bypass: Actual MS Hosted Email Attack
+MFA Bypass: Evilginx
+MFA in the cloud
+MFT
+MFT entry
+MFTECmd.exe
+MFTEcmd
+MIC - Mandatory Image Control
+MISP
+MISP GUI
+MISP: Malware Information Sharing Platform
+MITM - Man In The Middle
+MITRE ATT&ACK intro
+MITRE ATT&CK
+MITRE ATT&CK Collection
+MITRE ATT&CK Command and Control
+MITRE ATT&CK Credential Access
+MITRE ATT&CK Defense Evasion
+MITRE ATT&CK Discovery
+MITRE ATT&CK Execution
+MITRE ATT&CK Exfiltration
+MITRE ATT&CK Framework
+MITRE ATT&CK Groups
+MITRE ATT&CK Impact
+MITRE ATT&CK Initial Access
+MITRE ATT&CK Lateral Movement
+MITRE ATT&CK Persistence
+MITRE ATT&CK Privilege Escalation
+MITRE ATT&CK applied
+MITRE ATT&CK pitfalls
+MMX - MultiMedia eXtension instructions
+MS SQL registry interaction
+MS-DRSR
+MS10-046
+MS10-073
+MS10-092
+MS10-61
+MS14-025
+MSA - Master Service Agreement
+MSAL - Microsoft authentication library
+MSDelta
+MSDelta patches
+MSPatch
+MSSQL/MSSQLSvc
+MSU files
+MSdelta
+MZ 
+Machine wide COM objects
+Macro Dropper
+Macro settings
+MacroExpl
+Macros with VBA
+Magic Byte
+Mail Control 
+Mail/URL sandboxing
+Maintain Presence
+Maintaining Access
+Maltego
+Malware Detection Methods
+Malware Discovery
+Malware Downloader VBA
+Malware Downloader VBScript
+Malware Dropper Marco BlackEnergy
+Malware Execution
+Malware Information Sharing Platform (MISP)
+Malware Persistence
+Malware Traffic Analysis
+Malware Traffic Analysis 
+Malware analysis
+Malware archaeology mapping ATT&CK
+Malware detection
+Malware dropper Jscript 
+Malware paradox
+Malware persistence
+Malware-ology
+MalwareBytes
+Malwarebytes
+Malwarebytes Anti-Exploit (MBAE)
+Man in the browser
+Managed HTTP module
+Managed Service Accounts
+Managed code
+Managed identities
+Management groups
+Mandarory Integrity Control (MIC) 
+Mandatory Address Space Layout Randomization (ASLR)
+Mandatory Address Space Layout Randomization (MASLR)
+Mandatory Integrity Control (MIC)
+Manual Code Review
+Manual Inspections and Reviews
+Manual Logic flaw testing
+Manual Spidering
+Manual and Automated spidering
+Manual assessments
+Manual code review
+Manual inspection and reviews
+Manual spidering
+Manual vs. Automated
+Mark of the web
+Mark-of-the-Web,
+Mash-up website
+Masscan
+Master File Table
+Maximum link depth
+Maze
+Mbae.dll
+Meddler-in-the-Middle
+Mediawiki fail
+MemProcFS extracted memory objects
+MemProcFS findevil
+MemProt
+MemProt from EMET
+MemProt on EMET
+Member functions
+Memory Acquisition
+Memory Analysis
+Memory Baseliner
+Memory Compression
+Memory Forensics
+Memory Integrity
+Memory Sections
+Memory Stack what is Normal
+Memory analysis tools
+Meta database info
+MetaSploit 
+Metadata
+Metadata endpoints
+Metafiles
+Metasploit
+Metasploit + Drupalgeddon
+Metasploit Exercise
+Metasploit Expolits
+Metasploit Meterpreter
+Metasploit Modules
+Metasploit Payloads
+Metasploit Pro
+Metasploit User Interfaces
+Metasploit arsenal
+Metasploit database seeding
+Metasploit db_import
+Metasploit exploit
+Metasploit exploit rankings
+Metasploit exploits windows
+Metasploit payloads
+Metasploit payloads stagers
+Metasploit payloads windows singles
+Metasploit payloads windows stages
+Metasploit w/ sqlmap
+Metasploit web testing
+Metasploit: db_import
+Meterpreter
+Meterpreter file transfer
+Meterpreter password dumping
+Meterpreter portfwd
+Meterpreter syntax
+Methodology web app pen testing
+Micro-virtualization
+Microsoft AD DS On-premise
+Microsoft Defender For Identity
+Microsoft Defender for Identity
+Microsoft Identity Services
+Microsoft Management Console (MMC)
+Microsoft Patch Tuesday
+Microsoft SDLC
+Microsoft Security Advisory 1871997
+Microsoft Update Catalog
+Microsoft authentication systems
+Microsoft azure
+Microsoft business platforms
+Microsoft cloud shell
+Microsoft identity architectures
+Microsoft intune
+Microsoft platforms
+Microsoft portals
+Microsoft threat modeling tool
+Microsoft365 ZAP
+Mimidrv.sys
+Mimikatz
+Mimikatz event logs
+Mimikatz syntax
+Mimikatz: Pass the Ticket
+Mimikatz: Token Stealing
+Mimilib.dll
+Misjudge Coverage
+Mitigation // Vista/Win7
+Mitigation // Win10
+Mitigation // Win8
+Mitigation CheatSheat
+Mitigation Common Techniques
+Mitigations for clients
+Mm
+Mobile Device Management (MDM) solutions
+Mobile Device Management (MDM) solutions 
+Modlishka
+More Kerberos Attacks
+More stuff to pilfer
+Motivation - Recon
+Moving files
+Moving files copy paste
+Moving files services
+Moving files with netcat
+MsBuild
+Msbuild.exe
+Msbuild.exe application control bypass
+Msdelta applying patches
+Msv1_0.dll
+Multi Factor Authentication (MFA) Cloud
+Multiplexed
+Muraena 
+Mutation Fuzzing
+Mutex
+Mutillidae
+Mutillidae Hints
+Mutillidae Security Levels
+NAC BYOD
+NAC Bypass
+NAC Bypass 
+NAC Summary
+NAC unsupported devices
+NBT-NS
+NBT-NS (Netbios Name Server) 
+NBT-NS NetBIOS Name Server
+NDA - Non disclosure agreement
+NFS - Network File Share
+NIST 800-30 Appendix D
+NIST Checklist 
+NIST National Vul'n Database (NVD)
+NIST checklist
+NIST repository
+NLTest
+NPK
+NSE - Nmap Script Engine
+NSE - nmap scripting engine
+NSE Script Catrgories
+NSE Script Inventory
+NSE script categories
+NSE ssl script
+NT
+NT Hash
+NT hash algorithm
+NT hashes
+NTDS.DIT
+NTDS.DIT: Compromising Creds
+NTDS.dit
+NTDS.dit copy
+NTDS.dit database backup
+NTDSUtils
+NTDSXtract
+NTFS
+NTFS Attributes
+NTFS Features
+NTFS Timestamps
+NTFS features
+NTFS timestamps
+NTLM Attack Strategy #1
+NTLM Attack Strategy #2
+NTLM Hashing 
+NTLM Hashing Function
+NTLM One Way Function (NTOWF)
+NTLM Sniffing
+NTLM authentication 
+NTLM brute force
+NTLM relaying attack
+NTLM zeek
+NTLMv1
+NTLMv2
+NTLMv2 Challange Response
+NTLMv2 Challenge Response
+NTLMv2 Cracking 
+NTLMv2 OWF (One-way function)
+NTLMv2 One way Function
+NTLMv2 attack defense
+NTLMv2 attack strategies
+NTLMv2 challenge response
+NTLMv2 response
+NTOWF
+NTUSER.DAT
+NULL
+NVD - National Vulnerability Database
+NVD national Vunlerabilty database
+NX bit
+NXDOMAIN
+NXDOMAIN 
+Named Pipes
+Namespace Type
+National Institute of Standards and Technology (NIST)
+National Software Reference Library (NSRL)
+Native HTTP modules
+Nc backdoor windows
+Nc port scanning
+Nc test http methods
+Nessus
+NetBIOS
+NetFlow
+NetLocalGroupGetMembers
+NetSessionEnum
+NetSparker
+NetWkstaUserEnum
+Netcat
+Netcat for Pen Tester
+Netcat for the Pen Tester
+Netcat redirection
+Netcraft
+Netcraft site report
+Netsh redirection
+Network Access Control (NAC)
+Network Discovery
+Network Flight Simulator (flightsim)
+Network Logon
+Network Monitoring: Architechture Principle 3
+Network Segmentation: Architechture Principle 4
+Network Service
+Network Share Access
+Network Shares
+Network artifacts
+Network services test
+Network sweep
+Network visibility
+Network vuln scanner
+New-HoneyHash.ps1
+Nexpose
+Ngrok
+Ngrok technique
+Nikto
+Nishang
+Nishang Powershell
+Nmap
+Nmap -iL input(list); -o output
+Nmap DNS NSE
+Nmap DNS NSE Scripts
+Nmap Scripting Engine (NSE)
+Nmap Timing speeds (-T #)
+Nmap port scanner
+Nn
+No eXecute (NX)
+Node.JS
+Non gallery applications
+Non-Resident
+Non-blind Command Injection
+NotPetya
+Notable Client
+Nslookup
+Nslookup –q=TXT <something>._domainkey.<domain>
+Ntds.dit acquisition
+NtertSrv
+Nuclei
+Nuclei CLI options
+Nuclei execution
+Nuclei templates
+Nuclei templates cves
+Nuclei templates exposures
+Nuclei templates vulnerabilities
+Nuclei templates workflows
+Nuclei/Jenkins Exercise
+OAST - Out-of-Band Application Security Testing
+OAuth
+OAuth Token
+OAuth2 flow
+OAuth2 in detail
+OIDC Crash Course
+OLE files
+OODA Loop
+OPTIONS
+OS Controls
+OS Fingerprinting
+OS Fingerprinting techniques
+OS Fingerprinting/Version
+OS Market Share
+OS Market share
+OS Patching
+OS market share
+OSINT - Open Source Intelligence
+OSINT Mind Map
+OSINT Suites
+OSINT for web app testing
+OSINT mind map
+OSQuery
+OWASP - Open Web Application Security Project Testing Guide
+OWASP - Open Web Application Web Application Security Project
+OWASP A08:2021
+OWASP Top 10
+OWASP Web Sec. Testing Guide (WSTG)
+OWASP Web. App. Sec. Testing Methodology
+OWASP top 10
+OWASP web app pentest methodology
+Object Access
+Object ID
+Obtaining Hashes and Dumping
+Obtaining Patches for Analysis
+Obtaining Threat intell
+Obtaining Threat intell 
+Obtaining windows passwords
+Office Trust Center 
+Office file format
+Office trust center
+Office trusted documents
+Offline Cached Cred Extraction
+Offline Data Storage
+Offline data
+Olaf Hartong Sysmon
+Ole files
+Oledump.py
+On-premise applications with proxy
+One way trust
+One-Way Trust
+OneDrive
+OneSixtyOne
+Online Data Storage
+Online storage
+Only elevate UIAccess applications that are installed in secure locations
+Only elevate executable files that are signed and validated
+Oo
+Open Source Intelligence (OSINT)
+Open VAS
+Open Web Application Security Project (OWASP)
+Open XML format
+Open-Source Intelligence (OSINT)
+OpenID authentication JWT
+OpenID connect flows
+OpenIOC
+OpenId
+OpenId Connect Flows
+OpenId/OAuth/SAML Authentication
+OpenProcess
+OpenVAS
+Operating System Vulnerabilities
+Operational
+Operational Security
+Operational threat intelligence
+Operationalizating Threat Intell
+Opportunity
+Organizational targets
+Origin of Trust
+Osquery Persistence Detection
+Out of Band channels
+Out-of-Band Stored XSS
+Outlook backdoor turla
+Over-Pass-the-Hash
+Over-Pass-the-Hash 
+Over-Pass-the-Hash Defense
+Overall Process
+Overpass the hash
+Overpass-the-Hash
+PA19 file header
+PA30 file header
+PAC
+PAC Validation
+PAC: Privileged Attribute Certificate
+PAW: Privileged Access Workstations
+PDO - PHP Data Object
+PE Files 
+PEASS-ng
+PEB
+PECmd.exe
+PHA: Password Hash Synchronization
+PKCE - Proof Key for Code Exchange
+POP
+POST
+POST parameters
+PRT - Primary Refresh Token
+PS
+PS Obfucation
+PS hardening
+PS launched by VBA
+PSHunt
+PSReadline
+PTA: Pass-through authentication
+PTE
+PTES - Penetration Testing Execution Standard
+PUSH
+Packet Storm Security
+Pafish
+Page_Execute_ReadWrite
+Palantir's
+Parameter Tampering (Authn Bypass)
+Parameter tampering
+Paranoid Fish
+Paranoid Fish (Pafish)
+Parrot Linux
+Parsedmarc
+Pass the Hash (Mimikatz)
+Pass the Hash attack
+Pass the Ticket
+Pass the Ticket attack
+Pass the Ticket: Mimikatz
+Pass the hash
+Pass the hash details
+Pass the hash metasploit psexec
+Pass the hash mitigations
+Pass the hash syntax
+Pass the ticket
+Pass the ticket mimikatz technique
+Pass the ticket syntax
+Pass-Thru authentication
+Pass-the-Hash
+Pass-the-Hash Toolkit // Evidence of Malware Exe
+Pass-the-Ticke
+Pass-the-Ticket
+Pass-through authentication (PTA)
+Password Attack Tips
+Password Guessing
+Password Hash Synchronization
+Password Hash Synchronization (PHS)
+Password Representation Formats
+Password attack
+Password attack methodology
+Password attack reporting
+Password attack warning
+Password characterization
+Password cracking
+Password cracking cloud
+Password guessing
+Password guessing technique
+Password guessing techniques
+Password guessing tools
+Password hash synchronization
+Password hashes
+Password salting
+Password selection
+Password spray
+Password spray - technique
+Password spray azure
+Passwordless authentication
+Passwords
+Passwords Attacks
+Pastbin Moniroting 
+Pastebin
+Pastebin monitoring
+Pastemon
+Pastepwnd
+Patch Clean
+Patch Clean 
+Patch Deltas
+Patch Distribute
+Patch Distribution
+Patch Distribution 
+Patch Tuesday 
+Patch differentials
+Patch diffing
+Patch diffing tools
+Patch extract 
+Patch files 
+Patch mapping
+PatchClean
+PatchExtract
+PatchGuard
+Payload Delivery How
+Payload Delivery Prevention
+Payload Delivery Stats
+Payload Delivery Strategies
+Payload Delivery and Execution Strategies
+Payload Execution Detection
+Payload control
+Payload delivery
+Payload delivery statistics
+Payload execution
+Payload execution 
+PayloadRestricions.dll
+PayloadRestrictions.dll
+Pen Test
+Pen Test Goals
+Pen Test Process
+Pen Test Types
+Penetration Testing
+Penetration testing fuzzing sources
+Penetration testing process
+Pentest assumptions
+Percent encoding
+Permission
+Permissions on Azure
+Persisted (Stored) XSS
+Persistence
+Persistence 
+Persistence Detect
+Persistence Detection
+Persistence Prevent 
+Persistence Prevention
+Persistence: AutoStart Locations
+Persistence: DLL Hijacking
+Persistence: Scheduled Tasks
+Persistence: Service Creation/Replacement
+Persistence: Service Failure Recovery
+Persistence: WMI Event Consumers
+Persistence?
+Phantom COM
+Phantom COM objects
+Phantom DLL
+Phantom DLL Hijacking
+Phases of the MS SDL
+Phishing Exursises 
+PhotoRec
+Physical Exfiltration
+Physical data exfil
+Physical security testing
+Ping Castle 
+PingCastle
+PingCastle 
+Pipal
+Pipelined
+Pitchfork
+Pitchfork burp
+Pivot Points
+Pivoting
+Pivoting and Redirection
+Planning
+Plaso
+PoC payloads
+Points Value of Analysis Tasks
+Policy Change
+Polymorphic malware
+Polyverse
+Popcorn Time
+Port scan
+Port scanning
+Ports
+Posh-SecMod
+PoshBreach
+Post Office Protocol (POP3)
+Post assessment results
+Post exploitation - assumed breach
+Post exploitation tactics
+Post-Engagement: Appendices
+Post-Engagement: Executive Summary
+Post-Engagement: Finding
+Post-Engagement: Report Formats
+Post-Engagement: Reports
+Post-Engagement: Test Paramenters
+Post-Exploitation
+Postman
+PowerMeta
+PowerShell
+PowerShell 7
+PowerShell Auditing
+PowerShell Constrained Language Mode
+PowerShell Desired State Configuration
+PowerShell Empire
+PowerShell Execution Policies
+PowerShell Invoke output 
+PowerShell Obfuscation
+PowerShell PE Injection
+PowerShell Script Block Logging
+PowerShell Session Configuration File
+PowerShell Transcript
+PowerShell Transcripts
+PowerShell authentication
+PowerShell control
+PowerShell control bypass
+PowerShell core
+PowerShell empire
+PowerShell empire features
+PowerShell empire module categories
+PowerShell empire modules
+PowerShell encoded commands
+PowerShell inline scripts
+PowerShell logging
+PowerShell obfuscation
+PowerShell parent process
+PowerShell remote artifacts
+PowerShell remoting parent process
+PowerShell secrets management
+PowerShell stealth
+PowerShell sus commands
+PowerShell transcript logs
+PowerShell v2 removal
+PowerShell via VBA
+PowerShell: Full Language Mode
+PowerSploit
+PowerStripper
+PowerUp
+PowerView
+Powersehell Invoke-Expression
+Powershell
+Powershell Basics
+Powershell Get-ExecutionPolicy
+Powershell Logs
+Powershell Remoting
+Powershell Script Block Logging
+Powershell Script Block Logging Exercise
+Powershell Start-Transcript
+Powershell Transcript 
+Powershell logs
+Powershell through command line
+Powershell: Antimalware Scan Interface (AMSI)
+Powershell: Get-AppLockerStatus
+Powershell: Invoke-CredentialPhisher
+Pp
+Pre engagement
+Pre-Engagement Specifics
+Pre-Engagement Specifics: Backups
+Pre-Engagement Specifics: Communication Plans
+Pre-Engagement Specifics: Filtering
+Pre-Engagement Specifics: Permission
+Pre-Engagement Specifics: RoE
+Pre-Engagement Specifics: Scope
+Pre-Engagement Specifics: Source Details
+Pre-Engagement Specifics: Test Accounts
+Pre-Engagement Steps
+Pre-authentication
+Pre-engagement
+Pre-engagement steps
+Prefetch
+Preparation
+Preparation phase
+Preparation phase IR
+Prevent Data Exfiltration
+Prevent Payload Delivery 
+Prevent and Detect: BloodHound 
+Prevent and Detect: C2
+Prevent and Detect: COM Object Hijacking
+Prevent and Detect: DLL Search Order Hijacking
+Prevent and Detect: Registry Manipulation
+Prevent and Detect: Services
+Prevent and Detect: Task Schedulers
+Prevent and Detect: WMI Event Subscription
+Prevent and Detect: Web Shells
+Prevent or Detect
+Prevent overall Persistence
+Prevent-only 
+Prevention (DEP)"
+Previous Versions
+Primary access token
+Priv Esc
+PrivEsc: Linux
+PrivEsc: Windows
+Privacy Cleaner
+Private VLANs
+Private Virtual Local Area Network (VLAN)
+Privilege Escalation
+Privilege Escalation Flaws
+Privilege Hunting
+Privilege escalation - why?
+Privilege escalation domain - assumed breach
+Privilege escalation local - assumed breach
+Privileged Access Workstations
+Privileged Access Workstations (PAW)
+Privileged Attribute Certificate (PAC)
+Proactive Threat Hunting Strategies
+Problems
+Process Environment Block (PEB)
+Process Hollowing
+Process Objects
+Process Tracking
+Process Tracking & Capturing Command Lines
+Process execution without Binaries or Execuatables 
+Process memory dumps
+Process monitoring
+Process of verifying an individual’s identity
+Processbl
+Product security test
+Program Execution
+Project Public Playbooks
+Project public playbooks
+Property Oriented Programing
+Property-Oriented Programming
+Protected Mode
+Protected Process
+Protected Processes
+Protected Processes, Mimikatz 
+Protected View
+Protected View leaving protected 
+Protected process bypass
+Protected process configuration
+Protected processes
+Protected view
+Protected view criteria
+Protected view exit
+Protecting cookies
+Proxy phishing kit
+ProxyChains
+PsExec
+PsExec Artifacts
+PsExec lateral movement
+PsExec: Lateral Movement
+PsLogList
+Psexec.py
+PtH: Pass the Hash
+Public Data Breaches
+Public Key Infrastructure (PKI)
+Public Keys/Certificates and Certificate Authorities
+Public data breaches
+Public data dump forums
+Public key
+Purple Sharp 
+Purple Team
+Purple Team Feedback Loop
+Purple team
+PurpleSharp
+Push button testing
+Push promise
+PwdDb
+PwnPlug 
+PwnPlug Elite
+Pyramid of Pain
+Pyramid of Pain: Domain Names
+Pyramid of Pain: Hash Values
+Pyramid of Pain: IP Addresses
+Pyramid of Pain: Network/Host Artifacts
+Pyramid of Pain: TTPs
+Pyramid of Pain: Tools
+Pystemon
+Python
+Python Exercise
+Python Flow Control: Conditionals
+Python Flow Control: Loops
+Python POST
+Python Requests Library
+Python SSL/TLS
+Python availability
+Python data types
+Python for Web App Pen Testers
+Python for pentesters
+Python ifs
+Python lists and dicts
+Python loops
+Python requests
+Python username harvesting
+Python web libraries
+Python2 v. Python3
+Python3 update
+QUIC
+Qq
+Quaility of Protection parameter
+Quality Updates
+Qualys
+Qualys SSL Labs
+Quote balancing
+RASP - Runtime Application Self-Protection
+RBAC (Role Based Access Control)
+RCG: Remote Credential Guard
+RDBMS - Relational DataBase Management Systems
+RDP
+RDP Usage
+RDP activity logging
+RDP logging
+RDPClip.exe
+REST
+REST and SOAP
+RESTful
+RESTful web services
+RET
+RFC 1350
+RFC 1918
+RFC 1945
+RFC 2069
+RFC 2616
+RFC 2617
+RFC 3507
+RFC 4949
+RFC 6749
+RFC 6750
+RFC 7540
+RFC 7541
+RFC 9114
+RFI - Remote File Inclusion
+RFP - Request for Proposal
+RID - Relative Identifier
+RIR - Regional Internet Registries
+RITA
+RITA (Real Intelligence Threat Analytics)
+RITA: Real Intelligence Threat Analytics
+RMI - Remote Method Invocation
+ROE - Rules of Engagement - Pre-Engagement
+ROOT CA 
+ROP 
+ROP - Return Oriented Programming
+ROP Chains 
+ROP chain
+ROSI
+RTLO – U+202E
+RUA reports 
+RUF Reports 
+RVA - Relative Virtual Address
+Race condition
+Randomized fuzzing
+Ransomulator
+Ransomware families
+Ransomware intrusion chain
+Rapid-Response Tooling Solutions
+Rapid7 appspider
+Raulston
+ReactJS
+Reactive Responce vs Threat Hunting
+Reading Files SQL
+Real Intelligence Threat Analytics (RITA)
+Real-Time Detection Issues
+Real-Time Remediation
+Realm
+Recent connection from/to exploited machine
+RecentFileCache
+RecentFileCache.bcf
+Recommended Polcies 
+Recon
+Recon - Infrastructure
+Recon Infrastructure
+Recon Infrax
+Recon User
+Reconnaissance
+Records Carving
+Recovery
+Recovery of Deleted Files via VSS
+Recovery phase
+Recovery phase IR
+Red Canary
+Red Canary 
+Red Team
+Red Team Execution
+Red Team Toolkit
+Red Team Tools
+Red vs Blue
+Redirectors
+Referer
+Reflect POST
+Reflected POST
+Reflected XSS
+Reflection tests
+Reflective code injection
+ReflectivePick
+Refresh Token Flow
+Reg commands
+Reg key Manipulation 
+RegEnumK
+RegRipper
+Registry Handle
+Registry Manipulation
+Registry Manipulation Detection
+Registry Manipulation Prevention
+Registry Manipulation: Detect
+Registry Manipulation: Examlpes
+Registry Manipulation: Prevent
+Registry Manipulation: Prevent and Detect
+Regsvr.exe
+Regsvr32.exe
+Rekall
+Relational Databases
+Release Phase
+Release phase
+Remediation
+Remote Access Agent
+Remote Analysis Agent
+Remote Code Execution <- Insecure Deserialization
+Remote Credential Guard
+Remote Credential Guard (RCG)
+Remote Desktop Artifacts
+Remote Desktop Protocol Login
+Remote Desktop Users
+Remote File Inclusion (RFI)
+Remote Images
+Remote Libary 
+Remote Management Tools
+Remote Procedure Call (RPC)
+Remote System IR
+Removable Media Security: Linux/macOS
+Removable Media Security: Windows
+Removable Media attack
+Remove-Comments.ps1
+Remsec
+Reparse Point
+Report appendices
+Report automation
+Report executive summary
+Report findings
+Report format
+Report introduction
+Report methodology
+Report recommendations
+Report redaction and transparency
+Report screenshot tools
+Report screenshots
+Reporting overview
+Reports
+Representational state transfer (REST)
+Representative sample
+Required Logs 
+Requirements Phase
+Requirements phase
+Resident
+Responder
+Responder 
+Responder SMB relay
+Responder defense
+ResponderGuard
+Response Phase
+Response phase
+Restricted Admin
+Restricted admin
+Ret
+Retesting
+Retire.js
+Retrieving Documents for Metadata Analysis
+Retro Hunting
+Retro hunting
+Return Oriented Programing
+Return Oriented Programming (ROP)
+Returnoriented programming (ROP)
+Rev level
+Reverse DNS (PTR) scans
+Reverse DNS Scan
+Reverse Engineering Updates
+Reverse Engineering updates
+Rig
+Right-to-left Override 
+Risk
+Risk Reduction
+Risk-based Conditional Access 
+Robot Exclusion Protocol
+Robot META tags
+Robot exclusion protocol
+Robots.txt
+Role Capability Files
+Role Enforcement
+Role enforcement
+RomeoAlfa
+Root CA
+Rootkit
+Rootkit Hooking
+Rootkits
+Rotten Potato
+Rr
+RtlMoveMemory
+Rubber Ducky
+Rubeus
+Rubeus.exe
+Rules of Engagement
+Run key
+RunAs
+S3
+SAM (Security Account Manager)
+SAM Hive
+SAM Security Account Manager
+SAML
+SAST
+SAST - Static Application Security Testing
+SCF file
+SCM
+SCP - Secure Copy
+SDL - Security Development Lifecycle
+SDL Agile Model
+SDL Design Phase
+SDL Implementation Phase
+SDL Model 
+SDL Release Phase
+SDL Requirements Phase
+SDL Response Phase
+SDL Selling the Process
+SDL Training Phase
+SDL Verification Phase
+SDL history
+SDL phases
+SDL selling points
+SDelete
+SEC542 - Enterprise Web Application Penetration Tester
+SEC560 - Enterprise Penetration Testing Index
+SEEBUG
+SEH Handler Chain
+SEHOP - Structured Exception Handling Overwrite Protection
+SELECT * FROM processes WHERE on_disk=0
+SELinux
+SHINE
+SID
+SID - Security Identifier
+SIDS
+SIFT Workstation
+SIGMA
+SIGMA Converter 
+SIGMA Exercise
+SIGMA Kerberos RC4
+SIGMA over pass the hash
+SIGMA rule
+SIP - Session Initiation Protocol
+SMB
+SMB / SAMBA
+SMB Control
+SMB Image remote attack
+SMB Relay
+SMB relay
+SMB relay responder edition
+SMBClient
+SNI header
+SOAP
+SOAP web services
+SOCMINT
+SOP - Same Origin Policy
+SOP Evasion
+SOP Externally Sourced Scripts
+SOP and externally sourced scripts
+SOP cookies
+SOP evasion
+SOP requirements
+SOP test cases
+SOW - Statement of Work
+SPN (Service Principal Names)
+SPN - Service Principal Name
+SPNs (Service Principals Names) 
+SQL - Reading files
+SQL - Writing files
+SQL Data Types
+SQL Injection Examples
+SQL Injection Primer
+SQL Injection: Admin level access
+SQL Modifiers
+SQL Special Characters
+SQL Verbs
+SQL data types
+SQL injection auth bypass
+SQL injection discovery
+SQL injection examples
+SQL query modifiers
+SQL special characters
+SQL verbs
+SQLi
+SQLi -> Write File -> Shell
+SQLi Binary/Boolean Inference Testing
+SQLi Blind Timing Inference
+SQLi Column Number Balancing
+SQLi Command stacking
+SQLi DB Fingerprinting
+SQLi Data Type Balancing
+SQLi Database Error Messages
+SQLi Equivalent String Injections
+SQLi In-Band or Inline
+SQLi In-Band/Inline
+SQLi Out-of-Band
+SQLi Quote Balancing
+SQLi Suseptability
+SQLi Tools
+SQLi UNION
+SQLi UNION + NULL
+SQLi UNION + NULL + Data type
+SQLi Where to Inject?
+SQLi blind
+SQLi boolean testing
+SQLi cheat sheets
+SQLi classes
+SQLi comments
+SQLi equivalent strings
+SQLi inference based testing
+SQLi input locations
+SQLi out of band
+SQLi potential attacks
+SQLi stacked queries example
+SQLi timing analysis
+SRP Blocking Rule
+SRP: Software Restriction Policies
+SSE2 - Streaming Single SIMD Extensions 2
+SSH dynamic forward
+SSH local forward
+SSH remote forward
+SSL Testing
+SSL enumeration
+SSL/TLS
+SSL/TLS configuration
+SSL/TLS handshake
+SSL/TLS interception
+SSLDigger
+SSLScan
+SSLlabs.com
+SSRF - Server Side Request Forgery
+SSRF example
+SSRF impact
+SSRF metadata access
+ST (Service Ticket)
+ST: Service Ticket
+STIX: Structured Threat Information eXpression
+STRIDE
+STS: Security Token Service (VMware
+SUID exploits
+SUID search
+SWIFT
+SYSENTER
+SYSVOL Share
+Sabatage
+Sabotage
+Sacrificial Process
+Safe HTTP methods
+Safe Structured Exception Handling (SafeSEH)
+Safe link
+SafeDllSearchMode
+SafeDllSearchMode DDL Load Order
+SafeDllSearchMode enabled
+SafeSEH
+SafeSEH (structured Exception Handling)
+SafeSEH - Safe Structured Exception Handling
+SafetyKatz
+Same origin
+Same site cookie attribute
+Same-Origin Policy (SOP)
+SameSite Cookie Attribute
+Sandbox Stealth
+Sandbox detection
+Sandbox detection 
+Sandbox shortcomings
+Sandbox stealth
+Sandboxing
+Sandboxing 
+Sandboxing Mail/URL
+Sandbx
+Sans SIFT
+Satellite C2
+Sc
+Sc invoke exe
+Scan Types
+Scan results
+ScanContent()
+ScanRand
+Scanner Types
+Scanning
+Scans.io
+Scheduled Tasks
+Schema Admins
+Schtasks
+Scope
+Scope - Pre-engagement
+Scope: Third Parties - Pre-engagement
+ScopeSnapshots
+Script Execution
+Script Injection
+Script based logs
+Script block logging
+Script-based - flexibility and don't add a load to your hosts when they are not running
+SeDebugPrivilege.
+Search engines
+SearchDiggity
+Searching for data
+Seatbelt
+Seatbelt command groups
+SecLists
+SecTAG
+Secretsdump.py
+Section
+Section_Object_Pointer
+Secure Cookie Attribute
+Secure Cookie flag
+Secure DNS: Architechture Principle 2
+Secure Password 
+Secure Software Development Life Cycle (SSDLC)
+Secure cookie attribute
+Secure credential management
+Secure credential sharing
+Securing HTA
+Security Alert Fatigue
+Security Audit
+Security Audits
+Security Baseline
+Security Compliance Toolkit
+Security Content Automation Protocol (SCAP)
+Security Cookies
+Security Development Lifecycle (SDL)
+Security Development Lifecycle (SDL) Phases
+Security Event Log
+Security Key
+Security Monitoring
+Security Onion
+Security Technical Implementation Guide (STIG)
+Security Testing Methods
+Security architecture
+Security logging and monitoring failures
+Security pointers
+Security testing methods
+Security.Cryptography.CryptoStream
+Self-Healing
+Self-XSS
+Self-host Infrax (Less common type)
+Selling the Process
+Semantics
+Semaphore
+SendAJAX()
+Sender Policy Framework (SPF)
+Serialization
+Server Header
+Server Update Services (WSUS)
+Server XSS
+Server header
+Server-Side Request Forgery (SSRF)
+Service Accounts
+Service Creation/Replacement
+Service Failure Recovery
+Service Principal Name (SPN)
+Service Ticket (ST)
+Service exploit linux
+Service names
+Service side exploit
+Service version detection
+Service-side exploits
+Services
+Services 
+Services Persistence Detection
+Services Persistence Prevention
+Services persistence
+Services: Prevent and Detect
+Session Abuse
+Session Attacks: Logout/Timeout
+Session Attacks: Session Fixation
+Session Hijacking
+Session Identifier: Cookie
+Session Identifier: Custom Header
+Session Identifier: Hidden Form Field
+Session Identifier: URI Parameters
+Session Identifiers
+Session Management
+Session Management Principle: Confidential
+Session Management Principle: Expires
+Session Management Principle: Tamper Resistant
+Session Management Principle: Unpredictable
+Session Management Principles
+Session Theft
+Session Theft without Redirection
+Session abuse
+Session abuse DOM
+Session attacks
+Session fixation
+Session hijacking
+Session identifiers
+Session logout and timeout
+Session management
+Session management principals
+Session names
+Session predictability
+Session theft
+Session theft without redirection
+Sessions confidential
+Sessions expire
+Sessions tamper resistant
+Sessions unpredictable
+Set-Cookie
+Set-Cookie Header
+Set-Cookie header
+Set-WmiInstance
+Setup
+Shadow Copy
+Shadow stack
+ShadowBrokers SMB
+Shamoon
+Shared CTI
+SharpBlock
+SharpDump
+SharpHound
+SharpRoast
+SharpUp
+SharpWMI
+Shell tips
+ShellBags
+ShellExecute VBA
+Shellcode Injector VBA
+Shellshock
+Shellshock Injection
+Shellshock and the web
+Shellshock injection
+Shellshock payloads
+Shellshock visualized
+Shellshocking
+ShimCache
+ShimCache artifacts
+Shimcacheparser.py
+Shodan
+Shortcut (LNK) files
+ShotHound
+Shunning
+Side Channel Attacks / Username Harvesting
+Side channel attacks
+Sigcheck
+Signature based detection bypass
+Signature-Based Detection
+Signature-based exfil detection
+Signing Malware
+Silver Ticket
+Silver Ticket Defense
+Silver ticket
+Silver ticket controls
+Silver ticket generation technique
+Silver ticket use technique
+SimExec
+Simple Object Access Protocol (SOAP)
+Simple alert() Alternatives
+Simulate Execution (SImExec)
+Simulate Execution (SimExec)
+Simulate Execution Flow (SimExec)
+Simulated phishing
+Single Sign On (SSO)
+Single Sign-on (SSO)
+Situational Awareness
+Situational awareness
+Situational awareness - assumed breach
+Situational awareness Linux
+Situational awareness Windows
+Situational awareness hypothesis
+Situational awareness hypothesis:
+Six Step Process 
+Six steps
+Six-Step Incident Response Process
+Skeleton Key
+Skeleton Key Detecting
+Skeleton key
+Skeleton key detection
+Skill prep
+Sleuth Kit
+Slingshot
+Slingshot C2 Matrix
+Sliver
+Sliver features
+Sliver implant commands
+Sliver multiplayer
+Sliver payload file formats
+Sliver payload generation
+Sliver payload options
+Sliver red team
+Slow hashing
+Smartcards / CAC
+Smb_cmd.log
+Smb_files
+Smb_mapping
+Smbexec.py
+Snagit
+Sniffing and Cracking
+Snip & Sketch
+Sniper
+Sniper burp
+Snort: Network Monitoring: Architechture Principle 3
+SoapUI
+Social Engineering 
+Social Media - LinkedIn
+Social engineering test
+Social media
+Software Development Life Cycle (SSDLC)
+Software Restriction Policies
+Software Restriction Policies (SRP)
+Software and Data Integrity Failures
+Software restriction policies
+Sophos
+Source Code Review
+Source Code Reviews
+Source code assisted measurement
+Source code review
+Source code scanning tools
+Source details
+Spark
+Spark:
+Sparse file
+Spider results
+SpiderFoot
+SpiderFoot 
+Spiderfoot
+Spidering
+Spidering Web Applications
+Spotting the Adversary with Windows Event Log Monitoring
+Spotting the adversary with windows event log monitoring
+Spray365
+Sqlmap + Metasploit
+Ss
+Stack Canaries 
+Stack Memory Allocation
+Stack Overflow 
+Stack Pivot
+Stack Pivot Protection
+Stack Pointer Validation
+Stack Shield
+Stack allocation
+Stack canaries
+Stack overflow
+Stack overflow mitigations
+Stack segment
+Stacked queries
+Stacked queries why?
+Standard Windows Time Rules
+StarFighter
+StarFighter Empire launcher
+Start Recon
+Start-Transcript
+Static Analysis
+Static Analysis Code Review
+Static Analysis Tools
+Static Application Security Testing (SAST)
+Static Fuzzing
+Static analysis
+Static analysis evasion
+Status code
+Stealing Creds
+Stealing creds
+Stealing creds 
+Stealth Domain GPO
+Storage
+Stored (Persisted) XSS
+Stored XSS
+Stored XSS PoC
+Stored XSS class
+Stored XSS inter-protocol
+Stored XSS out of band
+Stored XSS targets
+Strategic
+Strategic threat intelligence
+String Searching
+String obfuscation
+Strings
+Structured Exception Handler (SEH)
+Structured Exception Handling (SEH)
+Structured Exception Handling Overwrite Protection (SEHOP)
+Structured Threat Information eXpression ( STIX)
+Stuxnet
+Stuxnet Virus 
+Subject
+Subscription
+Successful Logoff
+Successful Logon
+Sundown
+Super Timeline
+Super Timeline Analysis
+SuperScan
+Supplicant
+Suricata
+Suricata IDS ruleset
+Suricata output
+Suricata v DCSync & DCShadow
+Suspicious Services
+Swagger files
+SwiftOnSecurity
+Symmetric algorithm
+Symmetric crypto system
+Synced passwords
+Synchronization AD Connect
+Synchronizer tokens
+Syntax
+Sysinternals
+Sysmon
+Sysmon (System Monitoring)
+Sysmon Actions 
+Sysmon Custom Config 
+Sysmon Default Config 
+Sysmon Event Ids 
+Sysmon Exercise
+Sysmon FileBlockExecutable
+Sysmon Logging
+Sysmon configuration
+Sysmon default
+Sysmon event ids
+Sysmon event log entries 
+Sysmon installation
+Sysmon olaf hartong
+SysmonSearch
+SysmonSearch Visualization
+System Event Log
+System Events
+System Files
+System process
+System.Management. Automation
+System.Management.Automation.dll
+System.Net.HttpListener
+System.Net.HttpWebClient
+System.Net.Sockets.Socket
+System.Net.WebClient
+Systems with active malware
+Systems with dormant malware
+Systems without tools or malware (living off the land)
+TCP Control Bits
+TCP Handshake
+TCP Header
+TCP port scanning behavior
+TDL3/TDSS
+TFTP
+TFTP fuzzing
+TGS-REP
+TGS-REQ
+TGT
+TGT (Ticket-Granting Ticket) and PAC
+TGT: Ticket Granting Ticket
+TIB (Thread Information Block)
+TLD - Top Level Domains
+TRACE
+TRIKE
+TSK
+TXT record
+TaHiTI
+TaHiTI handover
+TaHiTI triggers
+TaHiTI: Handover
+TaHiTI: Hunt
+TaHiTI: Hypothesis
+TaHiTI: Triggers
+Tactical
+Tactical threat intelligence
+Tag attributes
+Takeover features
+Target (service) long-term secret key
+Target Profiling
+Target long term secret key
+Target machines / Victim systems
+Target profiling
+Targeted Super Timeline Creation
+Targeting Linux - Why?
+Targeting information
+Targets
+Task Persistence Detection
+Task Persistence Prevention
+Task Scheduler 
+Task Scheduler Logs
+Task Scheduler Prevent
+Task Scheduler v1.2
+Task Schedulers: Examples
+Task Schedulers: Prevent and Detect
+Task scheduler Detect
+TaskSchedulers 
+Tatical Operation Pyramid 
+TeamViewer
+TechNet
+Technet
+Temporal Proximity
+Term
+Terror
+Test HTTP methods
+Test Incident Response
+Test accounts
+Test for HTML Injection
+Test parameters
+Testing Session Timeout
+Testing System / Attack System
+Testing Windows AD 
+Testing for Bypassing Authentication Schema
+Testing for Logout Functionality
+Testing for Session Fixation
+Testing system hardening
+Testssl.sh
+The Pivot Point
+The Purple Team Feedback Loop
+The Scenario
+The Sleuth Kit
+The Web, v1
+The Zen of Python
+The tangled web
+TheHive
+Thinkst Canary
+Thor
+Thread
+Thread Information Block (TIB)
+Threads
+Threat
+Threat Hunging Process 
+Threat Hunting
+Threat Hunting & Assessment
+Threat Hunting Automation
+Threat Hunting Data Visualization
+Threat Hunting Logs
+Threat Hunting Methodology
+Threat Hunting Process
+Threat Hunting Requirements
+Threat Hunting Success Factors
+Threat Hunting Sucess Factors
+Threat Hunting Triggers
+Threat Hunting Vs RealTime
+Threat Hunting v Real Time Detection
+Threat Inelligence 
+Threat Intelligence
+Threat Intelligence Gathering info
+Threat Intelligence Issues
+Threat Intelligence Operations
+Threat Modeling
+Threat Modeling Tool
+Threat actor encyclopedia
+Threat intell Obtaining
+Threat intell Obtaining 
+Threat intelligence
+Threat model example
+Threat modeling
+Threat modeling models
+Ticket Granting Service (TGS)
+Ticket Granting Service (TGS).
+Ticket-Granting Service
+Ticket-Granting Service Defense
+Ticket-Granting Service Forgery
+Ticket-Granting Ticket
+Ticket-Granting Ticket (TGT)
+Ticketer.py
+Tickets
+Tickets: Compromising Creds
+Tickets: Defending Creds
+Tier 0 admin
+Tier 1 admin
+Tier 2 admin
+Tiered Admin Model
+Time Rule Exceptions
+Time Rules
+Time Slice
+Timeline
+Timeline Analysis
+Timeline Analysis Overview
+Timeline Benefits
+Timeline Creation
+Timeline Explorer
+Timestamp Analysis
+Timestamp Anomalies
+Timezone
+Timing Attacks
+Timing attack
+Timing recon
+Title
+Token Stealing
+Token authentication
+Tokens
+Tokens: Compromising Creds
+Tokens: Defending Creds
+Tool failure
+Toolkit prep
+Tools for penetration testing teams
+Traditional Security Monitoring
+Traffic recon
+Transcript files
+Transmission security
+TrevorProxy
+TrevorSpray
+Triage
+Triage Collection & Analysis
+Triage Extraction
+Tricking the adversary
+Triggers 
+Trivial File Transfer Protocol (TFTP)
+Trojans
+Trust Settings and Directions
+Trusted Code Signing
+Trusted Platform Module (TPM)
+Trustworthy Computing (TwC) memo
+TsPkg
+Tt
+TurboDiff
+Turla
+Turla 
+TwC memo
+Twitter and Steganography
+Type 0 XSS
+Type 1 XSS
+Type 2 XSS
+Types of Pen Tests
+Types of tests - Pre-engagement
+U2F
+UAC
+UAC - User Account Control
+UAC Bypass Techniques
+UAC Group Policty settings 
+UAC Group Policy Settings
+UAC Levels
+UAC bypass techniques
+UAC control
+UAC: User Account Control
+UACME
+UDP Header
+UDP Scanning
+UDP scanning behavior
+UNC - Universal Naming Convention
+UNC file paths.
+UNICODE
+UNICODE wide 
+UNION data exfil
+UNION+NULL
+UNIONizing SQLi
+URI Parameters: Session Identifier
+URI query
+URL Analyzing
+URL analysis
+URL encoding
+URL safe links
+URLDownloadToFile VBA
+URLQuery.net
+US-CERT The United States Computer Emergency Readiness Team
+USB Weaponization
+USB social engineering
+USB windows controls
+USBGaurd
+USBGuard 
+USBHarpoon
+USBKill
+USG
+UXSS
+Ultimate Windows Security
+UltimateAppLockerByPassList
+Unallocated
+Unallocated Clusters
+Unannounced tests
+Unattended Install 
+Unattended Install Files
+Unattended install files
+Unauthenticated vulnerability scan
+Understanding Security Identifiers
+UnicornScan
+Unified Kill Chain
+Unified Kill chain
+Uninstalling a patch
+Unintentional shared data
+Unique string injection
+Universal 2ndFactor Authentication
+Unix / Linux passwords
+Unix / Linux passwords scheme
+Unix permissions
+Unlinked Content
+Unmanaged code
+Unquoted Paths
+Unquoted Paths with Spaces
+Unquoted paths with spaces
+Unquoted service paths
+Unshadow
+Unsupported Devices on 802.1X network
+Untrused locations 
+Untrusted Fonts block
+Ur0BuR()
+Urlscan.io
+Uroburos
+Use After Free (UAF)
+User Account Control (UAC)
+User Datagram Protocol (UDP)
+User Hardening 
+User Impersonation
+User Sids
+User and Groups AD 
+User space
+User wide COM objects
+User-agent
+Username Harvesting
+Username Harvesting / Auth'n Pages
+Username Harvesting / Side Channel attacks
+Username enumeration GetCredentialType
+Username enumeration GetCredentialType throttling
+Username enumeration OAuthToken
+Username harvesting
+Userspace Persistence 
+Uu
+VAD tree
+VBA - Visual Basic for Applications
+VBA Macros 
+VBA Shellcode Injector 
+VBA Shellcode injector
+VBA control
+VBA downloader & dropper
+VBA from PS
+VBA macros
+VBA project model
+VBA protection
+VBA to lunch PS 
+VBE: VBScript Encoding
+VBS (Virtualization-Based Security)
+VBS - Virtualization Based Security
+VBScript
+VBScript Encoding (VBE)
+VBScript Malware downloader
+VBScript Obfuscation
+VECTR
+VNC
+VSS
+VSS - Volume Shadow Copy
+VSS examination
+VSS: unprotected SAM hive copies
+VSSOwn
+VSentry
+Validate API Invocation
+Validate API Lnvocation
+Validate Handle Usage
+Validate Handle Usage 
+Validate Heap Integrity
+Validate Image Dependency
+Validate Image Depenency 
+Validate Stack Integrity
+Validate stack integrity
+Veil-Evasion
+Velociraptor
+Velociraptor Intro
+Velociraptor hunting and analysis capes
+Veracode
+Verb tampering
+Vericode 
+Verification Phase
+Verification phase
+Version scan
+Version scanning techniques
+Versions and Cipher Suites
+ViewState
+Virtual Address Descriptor (VAD)
+Virtual Host
+Virtual Host Discovery
+Virtual Memory Offset
+VirtualAlloc
+VirtualAlloc()
+VirtualAllocEx or VirtualAlloc
+VirtualProtect
+VirtualProtect()
+Virtualization Based Security (VBS)
+Virtualization Technology (VT)
+Virtualization Technology (VT).
+Virtualiztion Technology 
+VirusTotal
+VirusTotal.com
+Virustotal.com
+Visa
+Visual Basic Scrpting
+Visual Basic VBA
+Visual Basic for Applications (VBA)
+VisualCodeGrepper
+Volatile registry keys
+Volatility
+Volatility Plugins
+Volatility profiles
+Volume Boot Record
+Volume Name
+Volume Serial Number
+Volume Shadow Copy
+Volume Shadow Copy Service (VSS)
+Vulnerability
+Vulnerability Assessment
+Vulnerability Assessments
+Vulnerability Exploitation
+Vulnerability Scanners
+Vulnerability assessments
+Vulnerability discovery
+Vulnerability scanner goals
+Vulnerability scanner types
+Vulnerability scanners
+Vulnerability scanning
+Vulnerable Web Apps: Mutillidae
+Vulverability Assessments
+Vv
+WCE - windows credential editor
+WDAC
+WDAC Vs. AppLocker 
+WDAC rules
+WDAC vs AppLocker
+WDAC vs Applocker 
+WDigest
+WER \\ Windows Error Reporting
+WHOIS
+WMI
+WMI Event Consumers
+WMI Event Filter
+WMI Event Subscription: Examples
+WMI Event Subscription: Prevent and Detect
+WMI Event Subscriptions
+WMI Event Subscriptions Detection
+WMI Event Subscriptions Prevention
+WMI Event Subscriptions: Detect
+WMI Event Subscriptions: Prevent
+WMI EventFilterToConsumer binding
+WMI Events
+WMI Persistence
+WMI artifacts
+WMI attack parent process
+WMI attacks
+WMI binding
+WMI event consumer
+WMI event filter
+WMI events
+WMI lateral movement
+WMI persistence
+WMI: Lateral Movement
+WMIC
+WPAD - Web Proxy Autodiscovery Protocol
+WPScan
+WPScan Exercise
+WPScan and ExploitDB
+WSDL
+WSH
+WSH - Windows Script Host
+WSH Hardening
+WSH control
+WSH execution
+WSH obuscation
+WSO
+WSO web shell
+WSTG - Web Security Testing Guide
+WSTG Categories
+WSTG cryptography category
+WSTG implementation
+WSTG information gathering
+WSTG-ATHN-04
+WSTG-ATHZ-02
+WSTG-ATHZ-03
+WSTG-ATHZ-04
+WSTG-CLNT-03
+WSTG-CONF-06:Test HTTP Methods
+WSTG-IDNT-04:Testing for Account Enumeration
+WSTG-INFO
+WSTG-INPV-11
+WSTG-INPV-12
+WSTG-SESS-03
+WSTG-SESS-06
+WSTG-SESS-07
+WSTG: Info. Gathering
+WSUS - Windows Server Update Service
+WaaS - Windows as a Service
+Watering Hole
+Watering hole attack
+Watson
+Wcry
+Wcry 
+Wdigest
+Wdigest.dll
+Weak TLS
+Weaponization
+Weaponized USB
+Weaponized USB 
+Web Application Pen Tester’s Toolkit
+Web History
+Web Proxy Auto-Discovery (WPAD)
+Web Proxy Setup
+Web Proxy TLS 
+Web Proxy: Architechture Principle 1
+Web Sehlls
+Web Shell Detection
+Web Shell Prevention 
+Web Shell: 404 Not Found
+Web Shell: C99.php
+Web Shell: WSO
+Web Shells 
+Web Shells \\ IIS
+Web app pen tester toolkit
+Web application test
+Web client
+Web proxy setup
+Web server fingerprinting
+Web servers
+Web service
+Web service pentesting
+Web services
+Web shell
+Web shell detection
+Web shell prevention
+Web-Based Enterprise Management (WBEM
+Web-Based Enterprise Management (WBEM)
+Wevutil.exe
+Wget
+Wget: Command-Line Spidering
+When Tools Fail
+When Tools Fail Exercise
+Whitehat sentinel
+Why Memory Forensics?
+Why Red Team?
+Why the Web?
+Wild card certificates
+Win32_Process.Create
+Win32k
+Win32k System Calls Disable
+Win32k systemcall
+WinDbg
+WinPEAS
+WinPEAS: Windows Privilege Escalation Awesome Script
+WinPMEM
+WinRM
+WinRM Powershell
+Windows Admin Shares Artifacts
+Windows Credential Editor (WCE)
+Windows Defender Application Control (WDAC)
+Windows Defender Expliot Guard
+Windows Digest (WDigest)
+Windows Error Reporting
+Windows Error Reporting (WER)
+Windows Hardening \\ Credential Compromise
+Windows Lateral Movement
+Windows Management Instrumentation
+Windows Management Instrumentation (WMI)
+Windows Memory Acquisition
+Windows PrivEsc
+Windows Privilege Escalation Awesome Script (WinPEAS)
+Windows Remote Management Tools
+Windows Safe Structured Exception Handling (SafeSEH)
+Windows Script Host (WSH)
+Windows Script Host executes a .vbe file,
+Windows Server Update Service (WSUS)
+Windows Services
+Windows Services 
+Windows Services: Detection
+Windows Services: Examples
+Windows Services: Prevent
+Windows Services: Prevent and Detect
+Windows Servicing Branches
+Windows Situational Awareness
+Windows Time Rules
+Windows Update for Business (WUB)
+Windows access tokens
+Windows as a Service  (Waas)
+Windows as a Service (WaaS)
+Windows challenge and response
+Windows challenge and response sniffing
+Windows common privilege escalation
+Windows defender bypass
+Windows defender credential guard
+Windows event collector service
+Windows event logs
+Windows forensic trinity
+Windows forensics artifacts
+Windows password storage
+Windows v.s. Linux
+Winrs
+Wiper
+Wireless security test
+Wmic process create
+Wmic process interaction
+Wmiexec.py
+WordPress Exercise
+Workflow tampering
+Workshop Platform: ranges.io
+World wide web
+World writable files Linux
+Writable Scheduled Tasks binaries
+Writable Service Executables
+Writable Windows Service executables
+WriteProcessMemory
+Writing files - SQL
+Written permission
+Wscript.Shell ActiveXObject
+Wscript.exe
+Ww
+X-Frame-Options
+X.509 certificate
+XCHG RAX, RSP
+XD bit
+XHR - XML HTTP request
+XHR limits
+XHR methods & properties
+XHR readyState
+XHdrya
+XML External Entities (XXE)
+XML injection PoC
+XMLHttpRequest
+XMLHttpRequest (XHR)
+XSD - XML Schema Definition
+XSS
+XSS Class: Dom-Based
+XSS Class: Persisted (Stored)
+XSS Class: Reflected
+XSS Context: Existing JS Code
+XSS Context: HTML
+XSS Context: Tag attributes
+XSS Discovery: Filter test
+XSS Discovery: Fuzzing
+XSS Discovery: PoC payloads
+XSS Discovery: Reflection tests
+XSS Filter Bypass
+XSS Impacts
+XSS Injection Context
+XSS Injection Points
+XSS PoC
+XSS Tools
+XSS attack prevention
+XSS classes
+XSS discovery
+XSS injection contexts
+XSS injection points
+XSS injection points+
+XSS trivia
+XSSer
+XST - Cross Site Tracing
+XXE - XML External Entity
+XXE Display Local File
+XXE access URL
+XXE blind
+XXE remote code execution php
+XXE: XML External Entities
+XXS vs CSRF
+Xfil with DNS
+Xx
+YAML
+YARA
+YARA Rules Automatically
+YARA TOOLS
+YARA USE CASES
+YARA console module
+YARA for file search
+YARA rule complex
+YARA rule modifiers
+YARA rule simple
+YARA rules extensions
+YARA string compare (==)
+YARA use cases
+YARA: YarGen
+YarGen
+Yara
+Yara Debugging 
+Yara Modifiers
+Yara Modules 
+Yara Rules
+Yara Rules Exensions 
+Yara Search Strings
+Yara data searching
+Yara rule generation
+YaraGenerator
+Yararules.com
+Ysoserial
+Yy
+ZAP - Zed Intercept Proxy
+ZAP Active Scan
+ZAP Interface
+ZAP URL encoding
+ZAP anti CSRF request form
+ZAP attack menu
+ZAP forced browse
+ZAP passive scanner
+ZAP spider
+ZAP: Spider
+ZEEK NSM (network security Monitor) 
+ZMap
+Zap (Zed Attack Proxy)
+Zap (Zero-hour auto purge)
+Zap fuzzer
+Zbot
+Zebrocy.
+Zeek
+Zeek (formerly Bro) NSM (Network Security Monitor)
+Zeek detecting lateral movement
+Zeek to Detection Lateral Movement 
+Zenmap
+Zero Day Initiative (ZDI).
+Zero Width Joiner
+Zero knowledge test
+Zero touch
+Zero-hour auto(ZAP)
+Zeus
+ZitMo
+Zone.Identifier
+ZoneTransfer 
+Zscaler 
+Zues
+Zz
+[System.Convert]::ToBase64String
+\Device\Physical\Memory
+__PSLockDownPolicy
+abuse the USB protocol 
+access token
+access tokens
+access tokens impersonation
+ad-hoc
+address space layout randomization (ASLR),
+air gap exfile
+alert()
+alternate data stream
+alwaysInstallElevated
+anti-forensic kill-switch
+anti-forensics defense
+apihooks
+appcompatprocessor.py
+arithmetic operations
+at.exe
+atom bombing
+authentication mechanisms
+autoruns
+autorunsc syntax
+autorunsc.exe
+awareness
+backup NTDsS.dit
+baseline
+blkls
+bodyfile
+buffer overflow
+built in tools search
+builtwith.com
+bulk_extractor
+bypass PowerShell Transcirpt
+bypass Secuirty in PS 
+bypassing protected process 
+bypassuac
+canaries
+capa
+carving method
+censys.io
+cloud outside of the IT department's control
+cmd line
+cmdscan
+code coverage 
+code injection detection
+code injection false positives
+common malware names
+compiletime controls
+confirm()
+connscan
+consoles
+contain and eradicate
+context clues
+control High-Entropy ASLR (HEASLR)
+cpassword
+creddump
+credential harvesting
+cross-site scripting (XSS)
+crt.sh
+crypt(3)
+crypto mining 
+cscript.exe
+csrss
+csrss.exe
+data encryption
+data execution prevention (DEP)
+data exfil detect
+data exfil prevent
+data exfile DNS ICMP
+data exfile network 
+data exfile network prevention
+data exfile prepping 
+data exfilitration 
+data layer
+data of interest searching 
+data to keep ofline 
+daunting
+decode-vbe.py
+decoy
+defend against Responder-style attacks
+dehashed.com
+delta_patch.py
+denial of service (DoS),
+density
+densityscout
+deskthrd
+detection-driven
+devicetree
+dig
+disable the ActiveX components
+dll Hijacking 
+dlldump
+dlllist
+dnsrecon
+document.URL
+document.cookie
+document.forms
+domain fronting 
+domain generation algorithms (DGA)
+driverirp
+drivers
+dumpfiles
+dwFlags
+eXecute Disable (XD)
+edgehtml.dll
+email hardning 
+email security best practies 
+emet.ddl
+emet.dll
+emulation
+end point isolation
+entropy
+environmental keying
+espionage
+eval
+eval()
+evasion
+eve.json
+event 4104
+event 4688
+event ID 5140
+event handle
+event log attacks
+event log collection
+eventvwr.exe
+eventvwr.msc
+evtx
+ewfmount
+expand -F:* file.msu dest
+exploit-db
+extracting cumlative updates 
+ffuf (Fuzz Faster U Fool)
+file deletion
+file transfer methods
+file wiping
+file xfil w/ netcat
+file://
+filebeat
+fileless malware
+filescan
+filesystem timeline
+find evil
+first Digital Weapn
+flight recorder
+fls
+freq.py
+fsutil
+fuzzing
+generate threat intelligence
+get2post.py
+getsids
+grep
+guard pages
+handle
+handles
+hard link
+hashcat
+hashdump
+hiberfil.sys
+hibr2bin
+hivelist
+hook.js
+htpassword
+hypothesis-based threat hunting 
+icons are stored as resources in PE files
+idt
+iex
+imagecopy
+imageinfo
+impacket
+impersonation tokens
+indivdual updates 
+information_schema
+inline hook
+intelx.io
+interesting files
+internet scanning tool
+ip (ip -br a)
+iptables
+istat
+jQuery
+jobparser.py
+john.pot
+journal
+journal activities
+journal filters and searches
+jp
+jp2iexp.dll (Java plugin)
+jscript.dll
+kansa
+keyscan_dump
+keyscan_start
+keyscan_stop
+klist
+knowledge baes (KB)
+krbtgt
+lateral movement
+lazy linking
+ldrmodules
+leakcheck.net
+load_file()
+location
+location.replace
+lockoutstatus.exe
+log2timeline
+log2timeline filter files
+log2timeline.py
+lookupsid.py
+low haning fruit
+lsalso.exe
+lsass.exe
+mTAN
+macro
+mactime
+mactime.exe
+mail inpersonaltion 
+mail spoofing 
+malfind
+malicious GPOs
+masscan
+mbae.dll
+memdump
+memory IOC scanning
+memory acquisition
+memory analysis
+memory forensics scaling
+memory resident object types
+memory.dmp
+metadata
+metadata layer
+metadata method
+metasploit
+metasploit psexec
+metasploit route
+mimikatz
+mimikatz.exe
+moddump
+modscan
+modules
+mof file
+msdelta.dll
+msfconsole
+msfd
+msfrpcd
+msfvenom
+mshta.exe
+mspatcha.dll
+mspatchc.dll
+mutex
+n-day exploit 
+named pipe
+nasty attack
+ncrack
+netcan banner grabbing
+netcat
+netcat listener
+netcat moving files
+netscan
+netsh
+network artifacts
+ngrok
+nmap
+nmap -sV
+nmap-services
+nonce
+nslookup
+ntds.dit
+ntds.dit encryption key
+ntds.dit extraction
+ntdsutil
+obfuscation of JScript
+obfuscation of VBScript
+office 365 validate links
+oledump.py
+openioc_scan
+orphan process
+osquery
+overpass the hash
+packing
+pafish 
+page directory offset
+pagefile.sys
+parsedarc
+pass the hash
+pass the ticket
+pass-the-hash
+password guessing
+paste sites 
+patator
+patch diffing 
+patches
+pcredz
+permission memo
+persistence
+persistence mechanisms
+persistence parent process
+pf
+phar://
+phising email 
+phonebook.cz
+php backdoor
+phpinfo.php
+pinfo
+pinfo.py
+pivot point
+pivotal phase
+pivoting attacks
+plaintext passwords
+plaso
+port forwarding
+powerUp.ps1
+powercfg.exe
+powershell transcript
+prefetch
+prefetch disable
+prevent untrusted devices from joining the (internal) network
+primary tokens
+printkey
+procdump
+process hollowing
+process memory
+process objects
+procexp
+prompt()
+protected processes
+ps
+psexec
+psexec.exe
+pslist
+psort
+psort.py
+pspcid
+psscan
+pstree
+psxview
+pw-inspector
+randomize_va_space
+rc4_hmac_md5
+rdphint
+readObject()
+readystate
+real-time technologies
+record_mic
+reg.exe
+registry key recovery
+registry key wiping
+regsvr32.exe
+regsvr32.exe /u vbscript.dll
+regular expressions
+relative virtual address (RVA)
+remote access agent
+req.py
+resident file
+restore points
+retrohunt
+return on security investment (ROSI)
+robots.txt
+rogue process identification
+rootkit
+sacrificial process
+sc
+sc.exe
+schtasks
+schtasks.exe
+script.db
+scrobj.dll
+scrub
+scylla.so
+searchsploit
+seatbelt syntax
+secretsdump
+secure SDLC
+segment heap
+segmentation
+sekurlsa::lsa
+sender policy framework SPF
+sequential MFT entries
+service control manager (SCM).
+servicebl
+services
+session
+setspn.exe
+shadow it
+shadow stack
+shimcache
+shimcachemem
+shodan
+sigcheck
+sigcheck.exe
+site:
+skeleton key
+slack space
+smb://
+smbclient.py
+smbexec.py
+snake 
+socket
+sockets
+sockscan
+soft link
+spear phising 
+sql burp and zap
+sql db enum
+sqlmap
+sqlmap --proxy
+sqlmap auth/sessions/proxies
+sqlmap db exfil
+sqlmap http headers
+sqlmap integration
+sqlmap proxies
+sqlmap switches+
+sqlmap targeting
+sqlmap w/ Metasploit
+ssdt
+strings
+stuxnet 
+super timeline
+super timeline output
+supply chain attacks
+svchost.exe
+svcscan
+swapfile.sys
+sysmon FileBlockExecutable
+sysprep.exe
+system restore
+testssl.sh
+theHarvester
+thrdproc
+threat intelligence
+threat intelligence summary
+time rule exceptions
+timeline analysis process
+timeliner
+timestomp
+timestomping
+timestomping detection
+token
+top-secret-project
+trevorspray
+trusted locations VBA
+uint16(0) == 0x5a4d
+un-safe HTTP methods
+unallocated MFT entry
+unattanded installation file
+unidentified proxy phishing kit
+unpack/expand/extract .msu patches
+unregistered and registered DLLS
+update catalog 
+urlquery.net 
+urlscan.io 
+user com persistance 
+userassist
+vSentry,
+vbscript.dll
+vbscript.dll (VisualBasic Scripting support)
+vectors.py
+vgx.dll (Vector Markup Language support)
+vshadowinfo
+vshadowmount
+vss_carver
+vssadmin list shadows
+vssadmin.exe
+vulnerability scan
+watering holes
+web infrastructure hardening
+webcam_list
+webcam_snap
+wevtutil.exe
+windows event logs 
+winrs
+wmic
+wmiexec.py
+wscript.exe
+wscript.shell
+wscript.shell ActiveXObject
+wsmprovhost.exe
+yarGen,
+–Command 
+–EncodedCommand,
+–ExecutionPolicy
+–IncludeInvocationHeader.
+–OutputDirectory
+“Start-DscConfiguration”
+“event_type”:”alert”
+strcpy()
+strncpy()
+sr1()
+mitm()
+handler()
+handler()
+sniff()
+XMLHttpRequest()
+AddPage()
+AddPage()
