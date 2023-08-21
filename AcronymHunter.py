@@ -1,37 +1,40 @@
 import re
 import io
 
-def find_abbreviations(filename):
-    """Search for abbreviations and acronyms in a text file and return them as a list."""
-    with io.open(filename, 'r', encoding='utf-8') as file:
-        text = file.read()
+# List of patterns to match
+patterns = [
+    r'\$\w+',
+    r'0x\d+',
+    r'\w+_\w+',
+    r'\w+-\w+',
+    r'\w+\.\w+',
+    r'[A-Z][a-z]+[A-Z]\w+'
+]
 
-        # Pattern for acronyms and abbreviations
-        pattern = r'((?:\b[A-Z][a-z]*\b\s*)+\((\b[A-Z]{2,}\b)\))|\b[A-Z]{2,}\b'
-        abbreviations = re.findall(pattern, text)
-
-        # Find function calls using provided function
-        function_calls = find_function_calls(text)
-        
-        return abbreviations + [(func, "") for func in function_calls]
-
-def find_function_calls(text):
-    # This pattern looks for sequences of word characters followed by ().
-    pattern = r'\b(\w+)\(\)'
-    functions = re.findall(pattern, text)
-    return [func + '()' for func in functions]
+def find_matches(filename):
+    """Search for the given patterns in a text file and return them as a sorted and unique list."""
+    matches = []
+    try:
+        with io.open(filename, 'r', encoding='utf-8') as file:
+            text = file.read()
+            for pattern in patterns:
+                matches += re.findall(pattern, text)
+    except UnicodeDecodeError:
+        with io.open(filename, 'r', encoding='latin-1') as file:
+            text = file.read()
+            for pattern in patterns:
+                matches += re.findall(pattern, text)
+    
+    # Remove duplicates and sort
+    matches = sorted(set(matches))
+    return matches
 
 def save_to_file(entries):
-    """Save the list of abbreviations and functions to the output file."""
-    with io.open("out.txt", 'w', encoding='utf-8') as file:
+    """Save the list of matches to the output file."""
+    with io.open("out.txt", 'w',) as file:
         for match in entries:
-            # If it's an abbreviation with acronym
-            if match[0]:
-                file.write(match[0] + '\n')
-            # If it's a standalone acronym
-            elif match[1]: 
-                file.write(match[1] + '\n')
+            file.write(match + '\n')
 
 if __name__ == "__main__":
-    entries = find_abbreviations("input.txt")
+    entries = find_matches("input.txt")
     save_to_file(entries)
